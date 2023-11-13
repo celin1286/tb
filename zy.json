@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fm.20231113-0911.jar",
+"spider":"./jar/fm.jar",
 "lives":[{"name":"宝盒•综合","type":0,"url":"https://gitcode.net/ygbh66/test/-/raw/master/bhzb.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
@@ -19,7 +19,7 @@
 {"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","ext":"http://127.0.0.1:9978/file/tvfan/token.json", "timeout":30},
 {"key":"盘搜","name":"盘搜","type":3,"api":"csp_PanSou","ext":"http://127.0.0.1:9978/file/tvfan/token.json", "timeout":30},
 {"key":"UP云搜","name":"云搜","type":3,"api":"csp_UpYun","ext":"http://127.0.0.1:9978/file/tvfan/token.json", "timeout":30},
-{"key":"csp_Hdhive","name":"影巢","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.json$$$socks5://192.168.1.9:4592","timeout":30},
+  
 {"key":"看球","name":"看球","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"}}
 ],
 "parses":[
