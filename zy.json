@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fm.20231113-0911",
+"spider":"./jar/fm.20231113-0911.jar",
 "lives":[{"name":"宝盒•综合","type":0,"url":"https://gitcode.net/ygbh66/test/-/raw/master/bhzb.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
