@@ -7,7 +7,6 @@
 "sites":[
 {"key":"drpy_js_豆瓣","name":"豆瓣","type":3,"api":"https://raw.sock.cf/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.sock.cf/celin1286/tb/main/js/drpy.js"},
 {"key":"drpy_js_磁力熊搜索","name":"熊搜","type":3,"api":"https://raw.sock.cf/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.sock.cf/gaotianliuyun/gao/master/js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
-
 {"key": "csp_XYQHikerAL_玩偶哥哥","name":"玩偶","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.sock.cf/gaotianliuyun/gao/master/XYQHiker/玩偶哥哥.json"},
 {"key":"Gitcafe","name":"小纸条(搜索)","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
 {"key":"csp_Zhaozy","name":"找资源(搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"yingshi$$$abcd1234"},
@@ -20,9 +19,8 @@
 {"key": "csp_XYQHikerAL_阿里云盘网","name":"阿里云盘(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.sock.cf/gaotianliuyun/gao/master/XYQHiker/阿里云盘网.json"},
 {"key": "csp_XYQHiker_DOVX搜索","name":"DOVX(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.sock.cf/gaotianliuyun/gao/master/XYQHiker/DOVX搜索.json"},
 {"key": "csp_XYQHiker_盘搜索","name":"盘搜索(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.sock.cf/gaotianliuyun/gao/master/XYQHiker/盘搜索.json"},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
-
-{"key": "csp_XYQBiu_88看球","name":"88看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.sock.cf/gaotianliuyun/gao/master/XYQBiu/88看球.json"}
+{"key": "csp_XYQBiu_88看球","name":"88看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.sock.cf/gaotianliuyun/gao/master/XYQBiu/88看球.json"},
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"}
 ],
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
