@@ -5,7 +5,7 @@
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "sites":[
-{"key":"drpy_js_豆瓣","name":"豆瓣[js]","type":3,"api":"https://raw.sock.cf/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.sock.cf/celin1286/tb/main/js/drpy.js"},
+{"key":"drpy_js_豆瓣","name":"豆瓣","type":3,"api":"https://raw.sock.cf/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.sock.cf/celin1286/tb/main/js/drpy.js"},
 {"key":"drpy_js_磁力熊搜索","name":"熊搜","type":3,"api":"https://raw.sock.cf/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.sock.cf/gaotianliuyun/gao/master/js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 
 {"key": "csp_XYQHikerAL_玩偶哥哥","name":"玩偶","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.sock.cf/gaotianliuyun/gao/master/XYQHiker/玩偶哥哥.json"},
