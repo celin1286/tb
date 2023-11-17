@@ -11,7 +11,7 @@
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 
 "sites":[
-{"key":"豆豆","name":"豆瓣┃导航","type": 3, "api": "csp_DouDou","changeable":1,"searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"豆豆","name":"豆瓣┃导航","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"drpy_js_磁力熊搜索","name":"熊搜┃导航","type":3,"api":"https://raw.sock.cf/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.sock.cf/gaotianliuyun/gao/master/js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 {"key":"lf_js_search","name":"路飞┃导航","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://raw.sock.cf/gaotianliuyun/gao/master/lib/lf_search3_min.js"},
 
