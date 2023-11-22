@@ -1,11 +1,11 @@
 {
-"spider": "https://gh-proxy.com/https://raw.githubusercontent.com/okcaptain/okjar/main/ok1122.jpg",
+"spider": "https://raw.sock.cf/okcaptain/okjar/main/ok1122.jpg",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "lives":[
 {"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"Fan•综合","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"YanG•综合","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"Ftindy•综合","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u","playerType":1},
+{"name":"Fan•综合","type":0,"url":"https://raw.sock.cf/dxawi/0/main/tvlive.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"YanG•综合","type":0,"url":"https://raw.sock.cf/YanG-1989/m3u/main/Gather.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"Ftindy•综合","type":0,"url":"https://raw.sock.cf/Ftindy/IPTV-URL/main/IPTV.m3u","playerType":1},
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
 ],
 
@@ -24,7 +24,7 @@
 {"key":"Up云搜","name":"Up云搜","type":3,"api":"csp_Upys","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"https://127.0.0.1:9978/file/TV/ali_token.txt", "danmu": true}},
 {"key":"云盘4K","name":"云盘4K","type":3,"api":"csp_Yunpan4k","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"https://127.0.0.1:9978/file/TV/ali_token.txt", "danmu": true}},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"ext":{"token":"https://127.0.0.1:9978/file/TV/ali_token.txt", "cookie": "https://127.0.0.1:9978/file/TV/quark_cookie.txt", "danmu": true}},
-{"key":"应用商店","name":"应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json","style":{"type":"rect","ratio":1}}
+{"key":"应用商店","name":"应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://raw.sock.cf/FongMi/CatVodSpider/main/json/market.json","style":{"type":"rect","ratio":1}}
 ],
 
 "parses":[
