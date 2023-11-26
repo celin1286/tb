@@ -10,8 +10,8 @@
 {"name":"Yoursmile•综合","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"初秋语•综合","type":0,"url":"https://raw.sock.cf/gaotianliuyun/gao/master/list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YueChan•综合","type":0,"url":"https://fongmi.cachefly.net/YueChan/Live/main/IPTV.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"香蕉•综合","type":0,"url":"https://dashu0754.com/api/v3/file/get/167/香蕉4.0.txt?sign=lrgzoZuXIMNvWtJtCK3lBAxDzyHQNKePujFVFLeHapM=:0","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"香蕉•综合","type":0,"url":"https://dashu0754.com/api/v3/file/get/167/香蕉4.0.txt?sign=lrgzoZuXIMNvWtJtCK3lBAxDzyHQNKePujFVFLeHapM=:0","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"惊云•综合","type":0,"url":"https://download.kstore.space/download/5147/惊云TV.txt?password=f35cb0ff3d9d077cf16690b95f417271-1695976671610","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"影子•综合","type":0,"pass":true,"url":"https://raw.sock.cf/lystv/short/main/影视/tvb/影子TV.txt","logo":"http://epg.51zmt.top:8000/{logo}","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}","playerType":1}
 ],
