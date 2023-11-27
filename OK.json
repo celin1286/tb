@@ -17,7 +17,8 @@
 {"name":"三小•综合","type": 0,"url": "https://raw.sock.cf/mengzehe/m3u/main/live.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"香蕉•综合","type":0,"url":"https://dashu0754.com/api/v3/file/get/167/香蕉4.0.txt?sign=lrgzoZuXIMNvWtJtCK3lBAxDzyHQNKePujFVFLeHapM=:0","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"惊云•综合","type":0,"url":"https://download.kstore.space/download/5147/惊云TV.txt?password=f35cb0ff3d9d077cf16690b95f417271-1695976671610","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"影子•综合","type":0,"pass":true,"url":"https://raw.sock.cf/lystv/short/main/影视/tvb/影子TV.txt","logo":"http://epg.51zmt.top:8000/{logo}","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}","playerType":1}
+{"name":"影子•综合","type":0,"pass":true,"url":"https://raw.sock.cf/lystv/short/main/影视/tvb/影子TV.txt","logo":"http://epg.51zmt.top:8000/{logo}","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}","playerType":1},
+{"name":"YanG•18+","type":0,"url":"https://raw.sock.cf/YanG-1989/m3u/main/Adult.m3u","playerType":1}
 ],
 
 "sites": [
