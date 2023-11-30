@@ -5,6 +5,7 @@
     {"name":"live","type":0,"url":"https://raw.sock.cf/dxawi/0/main/tvlive.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
   ],
   "sites":[
+    {"key":"豆豆","name":"豆瓣","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
     {"key":"玩偶","name":"玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
     {"key":"奇艺","name":"奇艺","type":3,"api":"https://raw.sock.cf/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.sock.cf/gaotianliuyun/gao/master/js/奇珍异兽.js"},
     {"key":"忙果","name":"芒果","type":3,"api":"https://raw.sock.cf/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.sock.cf/gaotianliuyun/gao/master/js/百忙无果.js"},
