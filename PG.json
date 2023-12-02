@@ -16,7 +16,7 @@
 {"key":"Hdhive","name":"影巢","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$null$$$1"},
 {"key":"Ppxzy","name":"皮皮虾","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://ppxzy.net/$$$null$$$1"},
 {"key":"校长影视","name":"校长影视","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$null$$$1"},
-{"key":"团长资源","name":"团长资源","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./lib/tokenm.json$$$null$$$1"},
+{"key":"团长资源","name":"团长资源","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$null$$$1"},
 {"key":"Wobg","name":"玩偶表哥","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://wobge.run.goorm.io$$$1"},
 
 {"key":"看球","name":"看球","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"}},
@@ -30,7 +30,7 @@
 {"key":"Gitcafe", "name": "小纸条", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json" },
 {"key":"找資源", "name":"找資源", "type":3, "api":"csp_Zhaozy", "searchable":1, "quickSearch":1, "filterable": 0, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json" },
 
-{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.json", "timeout":30}
+{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json", "timeout":30}
 ],
 
 "parses":[
