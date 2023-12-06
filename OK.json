@@ -25,7 +25,7 @@
 
 "sites": [
 {"key":"豆瓣OK","name":"豆瓣OK","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
-{"key": "小雅内网","name": "小雅","type": 3,"api": "csp_XiaoYa","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://raw.sock.cf/celin1286/tb/main/jar/spring.jar","ext": "eyJhcGlLZXkiOiI4NTM4MGM0ZC1lYzcwLTQ3MTAtOTMxZi1mNWMwZjY4MTA0NWUiLCJhcGkiOiJodHRwOi8vMTkyLjE2OC4xLjI6NDU2NyJ9","categories": ["最新","国产剧","欧美剧","日韩剧","中国电影","欧美电影","日韩电影","电视剧","电影","纪录片","综艺","动漫",]},
+{"key": "小雅内网","name": "小雅","type": 3,"api": "csp_XiaoYa","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://raw.sock.cf/celin1286/tb/main/jar/spring.jar","ext": "eyJhcGlLZXkiOiI4NTM4MGM0ZC1lYzcwLTQ3MTAtOTMxZi1mNWMwZjY4MTA0NWUiLCJhcGkiOiJodHRwOi8vMTkyLjE2OC4xLjI6NDU2NyJ9","categories": ["最新","国产剧","欧美剧","日韩剧","中国电影","欧美电影","日韩电影","电视剧","电影","纪录片","综艺","动漫"]},
 {"key":"玩偶弹幕版","name":"玩偶哥哥","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0, "ext": {"token": "http://127.0.0.1:9978/file/TV/ali_token.txt","filter": "https://raw.sock.cf/okcaptain/okjar/rm/wogg.json","danmu" : true}},
 {"key":"玩偶表哥弹幕","name":"玩偶表哥","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "ext": {"token": "http://127.0.0.1:9978/file/TV/ali_token.txt","cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt","danmu" : true}},
 
