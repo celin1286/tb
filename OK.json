@@ -27,7 +27,7 @@
 {"key":"豆瓣","name":"豆瓣OK","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
 {"key":"玩偶弹幕版","name":"玩偶哥哥","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0, "ext": {"token": "http://127.0.0.1:9978/file/TV/ali_token.txt","filter": "https://raw.sock.cf/okcaptain/okjar/rm/wogg.json","danmu" : true}},
 {"key":"玩偶表哥弹幕","name":"玩偶表哥","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "ext": {"token": "http://127.0.0.1:9978/file/TV/ali_token.txt","cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt","danmu" : true}},
-
+{"key": "csp_XiaoYa_宇宙","name": "小雅","type": 3,"api": "csp_XiaoYa","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./spring.jar","ext": "eyJhcGlLZXkiOiI4NTM4MGM0ZC1lYzcwLTQ3MTAtOTMxZi1mNWMwZjY4MTA0NWUiLCJhcGkiOiJodHRwOi8vdGIud3ZsZXNzLmxpbmsifQ==","categories": ["最新","国产剧","欧美剧","日韩剧","中国电影","欧美电影","日韩电影","电视剧","电影","纪录片","综艺","动漫",]},
 {"key":"看球","name":"看球","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"}},
 
 {"key":"csp_QuPanSou","name":"趣盘搜","type":3,"api":"csp_QuPanSou","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TV/quark_cookie.txt", "danmu": true}},
