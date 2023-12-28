@@ -11,26 +11,36 @@
 
 "sites":[
 {"key":"豆瓣","name":"豆瓣PG","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"https://raw.sock.cf/gaotianliuyun/gao/master/json/douban.json"},
-{"key":"drpy_js_磁力熊搜索","name":"熊搜","type":3,"api":"https://raw.sock.cf/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.sock.cf/gaotianliuyun/gao/master/js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
-{"key":"Wogg","name":"玩偶哥哥","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1"},
-{"key":"Hdhive","name":"影巢","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$null$$$1"},
-{"key":"Ppxzy","name":"皮皮虾","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://ppxzy.net/$$$null$$$1"},
-{"key":"校长影视","name":"校长影视","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$null$$$1"},
-{"key":"团长资源","name":"团长资源","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$null$$$1"},
-{"key":"Wobg","name":"玩偶表哥","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://wobge.run.goorm.io$$$1"},
-
+{"key":"Wogg","name":"玩偶哥哥|阿里","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1$$$./lib/wogg.json"},
+{"key":"影视车","name":"影视车|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json"},
+{"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"},
+{"key":"Pan99","name":"盘99|网盘","type":3,"api":"csp_Pan99","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://pan99.xyz$$$null$$$1"},
+{"key":"Hdhive","name":"影巢|网盘","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$null$$$1"},
+{"key":"Ppxzy","name":"皮皮虾|网盘","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://ppxzy.net/$$$null$$$1"},
+{"key":"校长影视","name":"校长影视|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$null$$$1"},
+{"key":"团长资源","name":"团长资源|网盘","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$null$$$1"},
+{"key":"Libvio","name":"LIBVIO|网盘","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://www.libvio.vip$$$null"},
+{"key":"PanSearch","name":"PanSearch|网盘","type":3,"api":"csp_PanSearch","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"},
+{"key":"易搜","name":"易搜|网盘","type":3,"api":"csp_YiSo","timeout":30, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"},
+{"key":"盘搜","name":"盘搜|阿里","type":3,"api":"csp_PanSou","timeout":30, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"},
+{"key":"Funletu","name":"趣盘搜|夸克","type":3,"api":"csp_Funletu","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"},
+{"key":"QuarkPanso","name":"夸克盘搜|夸克","type":3,"api":"csp_QuarkPanso","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"},
+{"key":"Panta","name":"盘Ta|网盘","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1"},
+{"key":"DaPanSo","name":"大盘搜|网盘","type":3,"api":"csp_DaPanSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://dapanso.com$$$null"},
+{"key":"Qianfan","name":"千帆|网盘","type":3,"api":"csp_Qianfan","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$QianFanID="},
+{"key":"YunSo","name":"小云搜索|网盘","type":3,"api":"csp_YunSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"},
+{"key":"YunPanOne","name":"云盘资源|网盘","type":3,"api":"csp_YunPanOne","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"},
+{"key":"Dovx", "name": "阿里|Dovx", "type": 3, "api": "csp_Dovx", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json" },
+{"key":"Gitcafe", "name": "阿里|小纸条", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json" },
+{"key":"找資源", "name":"阿里|找資源", "type":3, "api":"csp_Zhaozy", "searchable":1, "quickSearch":1, "filterable": 0, "timeout":30, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$user$$$pass" },
+{"key":"UP云搜","name":"阿里|UP云搜","type":3,"api":"csp_UpYun","timeout":30, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"}, 
+{"key":"4KHDR","name":"4KHDR|网盘","type":3,"api":"csp_FourKHDR","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$./lib/4khdr.txt$$$1"},
+		
+{"key":"AList","name":"网盘|Alist[jar]","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":1,"ext":"https://raw.sock.cf/celin1286/tb/main//js/alistjar.json"},
 {"key":"看球","name":"看球","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"}},
-
-{"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"},
-{"key":"盘搜","name":"盘搜","type":3,"api":"csp_PanSou","ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"},
-{"key":"4KHDR","name":"4KHDR","type":3,"api":"csp_FourKHDR","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$./lib/4khdr.txt$$$1"},
-{"key":"Sean","name":"Sean","type":3,"api":"csp_Sean","ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"},
-{"key":"UP云搜","name":"UP云搜","type":3,"api":"csp_UpYun","ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"}, 
-{"key":"Dovx", "name": "Dovx", "type": 3, "api": "csp_Dovx", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json" },
-{"key":"Gitcafe", "name": "小纸条", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json" },
-{"key":"找資源", "name":"找資源", "type":3, "api":"csp_Zhaozy", "searchable":1, "quickSearch":1, "filterable": 0, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json" },
-
-{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json", "timeout":30}
+		
+{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"},
+{"key": "應用商店","name": "應用商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://fm.t4tv.hz.cz/json/market.json"}
 ],
 
 "parses":[
