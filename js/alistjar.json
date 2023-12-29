@@ -1,5 +1,11 @@
 {
   "drives": [
+   {
+      "name": "小雅本地",
+      "search": true,
+      "searchable": true,
+      "server": "http://192.168.1.2:5344"
+    },
     {
       "name": "小雅191",
       "search": true,
