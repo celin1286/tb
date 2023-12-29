@@ -5,6 +5,12 @@
       "search": true,
       "searchable": true,
       "server": "http://123.145.63.191:5678"
+    },
+    {
+      "name": "小雅003",
+      "search": true,
+      "searchable": true,
+      "server": "http://116.204.122.3:5678"
     }
   ]
 }
