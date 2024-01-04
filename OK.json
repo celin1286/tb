@@ -30,6 +30,7 @@
 {"key":"玩偶弹幕版","name":"玩偶哥哥","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0, "ext": {  "token": "http://127.0.0.1:9978/file/TV/token.txt",  "danmu" : true}, "timeout":30},
 {"key":"玩偶表哥弹幕","name":"玩偶表哥","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "ext": {  "token": "http://127.0.0.1:9978/file/TV/token.txt",  "cookie": "http://127.0.0.1:9978/file/TV/quark.txt",  "danmu" : true}, "timeout":30},
 {"key":"运输车弹幕版","name":"运输车","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0, "ext": {  "token": "http://127.0.0.1:9978/file/TV/token.txt","cookie": "http://127.0.0.1:9978/file/TV/quark.txt","site": "https://www.weixine.net", "danmu" : true}, "timeout":30},
+{"key":"盘99弹幕版","name":"盘99","type":3,"api":"csp_Pan99","searchable":1,"filterable":1,"changeable":1, "ext": {  "token": "http://127.0.0.1:9978/file/TV/token.txt",  "cookie": "http://127.0.0.1:9978/file/TV/quark.txt",  "danmu" : true}, "timeout": 25},
 
 {"key":"奇艺","name":"奇艺","type":3,"api":"https://raw.sock.cf/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.sock.cf/gaotianliuyun/gao/master/js/奇珍异兽.js"},
 {"key":"忙果","name":"芒果","type":3,"api":"https://raw.sock.cf/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.sock.cf/gaotianliuyun/gao/master/js/百忙无果.js"},
