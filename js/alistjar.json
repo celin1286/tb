@@ -10,13 +10,13 @@
       "name": "小雅95",
       "search": true,
       "searchable": true,
-      "server": "http://123.60.142.95:5678/"
+      "server": "http://123.60.142.95:5678"
     },
     {
-      "name": "小雅93",
+      "name": "小雅109",
       "search": true,
       "searchable": true,
-      "server": "http://111.230.74.93:666"
+      "server": "http://123.60.142.109:5678"
     },
     {
       "name": "小雅003",
