@@ -37,6 +37,7 @@
 
 {"key":"看球","name":"看球","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"}},
 
+{"key":"PikaSo","name":"皮卡搜|网盘","type":3,"api":"csp_PikaSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://www.pikaso.top/$$$null"},
 {"key":"PanSearch","name":"PanSearch","type":3,"api":"csp_PanSearch","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"},
 {"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","timeout":30, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"},
 {"key":"盘搜","name":"盘搜","type":3,"api":"csp_PanSou","timeout":30, "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"},
