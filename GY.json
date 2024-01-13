@@ -1,15 +1,11 @@
 {
 "sites":[
-{"key":"豆瓣","name":"Ⓜ️┃豆瓣┃荐片","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alanchaotang/if/raw/branch/main/js/豆瓣.js"},
-{"key":"dr_布雷蓝光","name":"💥┃布布┃官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/布雷蓝光.jsd"},
-{"key":"dr_百忙无果","name":"🍋┃果果TV┃官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/百忙无果.js"},
-{"key":"dr_360影视","name":"♑┃三三影视┃官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/360影视.js"},
-{"key":"drpy_js_奇珍异兽","name":"🐨┃艺艺┃官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/奇珍异兽.js"},
-{"key": "dr_腾云驾雾","name": "🐧┃腾腾┃官源","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/腾云驾雾.js"},
-{"key": "dr_优酷","name": "⛽┃酷酷TV┃官源","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/优酷.js"},
-{"key": "dr_菜狗","name": "🐶┃狗狗TV┃官源","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/菜狗.js"},
-{"key":"csp_xBPQ_奇优","name":"🏥┃奇优TV┃官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/alanchaotang/if/raw/branch/main/json/奇优影视.json","jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/HeChengChaXiu.jar"},
-{"key": "dr_酷云77","name": "💋┃酷云77┃官源","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/酷云77.js"}
+{"key":"天天","name":"天天","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn","jar":"http://cdn.qiaoji8.com/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32"},
+{"key":"996影院","name":"996","type": 3,"api": "csp_Cs1369","searchable": 1,"changeable": 1,"jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/pg.jar;md5;9acd9ebf0a5b997e2c8f73cc32b78e6d"},
+{"key":"奇艺","name":"奇艺","type":3,"api":"https://agit.ai/juzhisan/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/juzhisan/gao/raw/branch/master/js/奇珍异兽.js"},
+{"key":"忙果","name":"芒果","type":3,"api":"https://agit.ai/juzhisan/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/juzhisan/gao/raw/branch/master/js/百忙无果.js"},
+{"key":"腾讯","name":"腾讯","type":3,"api":"https://agit.ai/juzhisan/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/juzhisan/gao/raw/branch/master/js/腾云驾雾.js"},
+{"key":"优酷","name":"优酷","type":3,"api":"https://agit.ai/juzhisan/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/juzhisan/gao/raw/branch/master/js/优酷.js"}
 ],
 
 "parses":[
