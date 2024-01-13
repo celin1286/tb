@@ -8,9 +8,9 @@
     },
     {
       "name": "影視庫",
-      "server": "https://esir.eu.org/dav",
-      "user": "alist",
-      "pass": "alist"
+      "server": "http://116.204.122.3:5678/dav",
+      "user": "guest",
+      "pass": "guest_Api789"
     }
   ]
 }
