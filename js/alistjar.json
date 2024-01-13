@@ -1,6 +1,6 @@
 {
   "drives": [
-   {
+   //{
       "name": "小雅本地",
       "search": true,
       "searchable": true,
