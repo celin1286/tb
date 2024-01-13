@@ -8,7 +8,8 @@
 {"key":"奇艺","name":"奇艺","type":3,"api":"https://agit.ai/juzhisan/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/juzhisan/gao/raw/branch/master/js/奇珍异兽.js"},
 {"key":"忙果","name":"芒果","type":3,"api":"https://agit.ai/juzhisan/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/juzhisan/gao/raw/branch/master/js/百忙无果.js"},
 {"key":"腾讯","name":"腾讯","type":3,"api":"https://agit.ai/juzhisan/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/juzhisan/gao/raw/branch/master/js/腾云驾雾.js"},
-{"key":"优酷","name":"优酷","type":3,"api":"https://agit.ai/juzhisan/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/juzhisan/gao/raw/branch/master/js/优酷.js"}
+{"key":"优酷","name":"优酷","type":3,"api":"https://agit.ai/juzhisan/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/juzhisan/gao/raw/branch/master/js/优酷.js"},
+{"key":"AList","name":"网盘","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":1,"ext":"https://raw.sock.cf/celin1286/tb/main//js/alistjar.json"}
 ],
 
 "lives":[
