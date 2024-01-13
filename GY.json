@@ -6,6 +6,12 @@
 {"key":"优酷","name":"优酷","type":3,"api":"https://agit.ai/juzhisan/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/juzhisan/gao/raw/branch/master/js/优酷.js"}
 ],
 
+"lives":
+[{"name":"初秋语•综合","type":0,"url":"./list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
+],
+
 "parses":[
 {"name":"解析","type":3,"url":"Demo"},
 {"name":"嗅探","type":3,"url":"Web"},
