@@ -1,6 +1,8 @@
 {
 "wallpaper":"https://jianbian.chuqiuyu.workers.dev",
 
+"spider":"https://agit.ai/juzhisan/gao/raw/branch/master/jar/pg.jar",
+
 "sites":[
 {"key":"豆瓣","name":"豆瓣PG","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"https://agit.ai/juzhisan/gao/raw/branch/master/json/douban.json"},
 {"key":"奇艺","name":"奇艺","type":3,"api":"https://agit.ai/juzhisan/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/juzhisan/gao/raw/branch/master/js/奇珍异兽.js"},
