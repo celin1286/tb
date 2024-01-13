@@ -1,10 +1,10 @@
 {
   "drives": [
     {
-      "name": "七米藍",
-      "server": "https://al.chirmyram.com/dav",
-      "user": "alist",
-      "pass": "alist"
+      "name": "小雅93",
+      "server": "http://111.230.74.93:666/dav",
+      "user": "guest",
+      "pass": "guest_Api789"
     },
     {
       "name": "影視庫",
