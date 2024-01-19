@@ -37,6 +37,7 @@
 //{"key": "直播转点播","name": "🐼┃电视┃直播","type": 3,"searchable": 0,"api": "https://agit.ai/alanchaotang/if/raw/branch/main/js/live2vod.js","ext": "https://agit.ai/alanchaotang/if/raw/branch/main/js/feimaolive.json"},
 {"key": "阿里夸克配置","name": "🐧┃阿里夸克┃配置","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"style": {"type": "rect","ratio": 1},"ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json","jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/pg.jar;md5;9acd9ebf0a5b997e2c8f73cc32b78e6d"},
 //{"key": "AList","name": "🅱┃网盘小雅","type": 3,"api": "csp_AListBox","searchable": 1,"changeable": 0,"jar":"./xy.jar","ext":"https://api.zalman2022.repl.co/xiaoya.json#原画","style": {"type": "list"}},
+{"key":"看球","name":"看球","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"},"jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/pg.jar"},
 {"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30,"jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/pg.jar", "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"},
 	
 ##高清4K系列
