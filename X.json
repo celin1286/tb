@@ -5,6 +5,8 @@
 {"key": "小雅内网","name": "Ⓜ️┃小雅┃本地","type": 3,"api": "csp_XiaoYa","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://raw.sock.cf/celin1286/tb/main/jar/spring.jar","ext": "eyJhcGlLZXkiOiI4NTM4MGM0ZC1lYzcwLTQ3MTAtOTMxZi1mNWMwZjY4MTA0NWUiLCJhcGkiOiJodHRwOi8vMTkyLjE2OC4xLjI6NDU2NyJ9","categories": ["最新","国产剧","欧美剧","日韩剧","中国电影","欧美电影","日韩电影","电视剧","电影","纪录片","综艺","动漫"]},
 {"key": "小雅外网","name": "Ⓜ️┃小雅┃在线","type": 3,"api": "csp_XiaoYa","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://raw.sock.cf/celin1286/tb/main/jar/spring.jar","ext": "eyJhcGlLZXkiOiIyYjc0YjJmZC1hYWQ0LTQyN2MtYTdhYi0zODZjNTE3NWJlMzIiLCJhcGkiOiJodHRwOi8vdW5jbzE2OC5zeW5vbG9neS5tZTo0NTY3In0=","categories": [ "每日更新","电影","电视剧","综艺","动漫","纪录片","教育","整理中","🈴我的阿里分享"]},
 {"key":"天天","name":"⛩️┃天天┃巧技","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn$$$null$$$1","jar":"https://agit.ai/juzhisan/gao/raw/branch/master/jar/pg.jar"},
+{"key":"看球","name":"Ⓜ️┃八八┃看球","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"},"jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/pg.jar"},
+{"key": "push_agent","name": "Ⓜ️┃阿里┃推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30,"jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/pg.jar", "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"},
 //{"key":"小纸条_cli","name":"🦋┃纸条┃资源","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt", "timeout":30},
 {"key":"77","name":"🌹┃柒柒┃影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
 //{"key": "天天","name": "⛩️┃天天┃巧技","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn","jar":"http://cdn.qiaoji8.com/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32"},
@@ -37,8 +39,6 @@
 //{"key": "直播转点播","name": "🐼┃电视┃直播","type": 3,"searchable": 0,"api": "https://agit.ai/alanchaotang/if/raw/branch/main/js/live2vod.js","ext": "https://agit.ai/alanchaotang/if/raw/branch/main/js/feimaolive.json"},
 {"key": "阿里夸克配置","name": "🐧┃阿里夸克┃配置","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"style": {"type": "rect","ratio": 1},"ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json","jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/pg.jar;md5;9acd9ebf0a5b997e2c8f73cc32b78e6d"},
 //{"key": "AList","name": "🅱┃网盘小雅","type": 3,"api": "csp_AListBox","searchable": 1,"changeable": 0,"jar":"./xy.jar","ext":"https://api.zalman2022.repl.co/xiaoya.json#原画","style": {"type": "list"}},
-{"key":"看球","name":"看球","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"},"jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/pg.jar"},
-{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30,"jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/pg.jar", "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"},
 	
 ##高清4K系列
 {"key":"玩偶哥哥","name":"💂🏿‍♀️┃阿里┃玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
@@ -372,14 +372,14 @@
 //"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 //"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 //"spider":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705477777977/fan.txt;md5;eea132982ffc884d7a39295f06a5141c",
+"spider":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705652461467/fan.txt;md5;fcbae63b422f8cafb86350141d0d676d",
 "wallpaper":"https://agit.ai/alanchaotang/X/raw/branch/main/Pictures/W-.png",
-"spider": "https://agit.ai/alanchaotang/if/raw/branch/main/jar/fan.jar;md5;eea132982ffc884d7a39295f06a5141c",
+//"spider": "https://agit.ai/alanchaotang/if/raw/branch/main/jar/fan.jar;md5;eea132982ffc884d7a39295f06a5141c",
 //"wallpaper":"http://饭.eu.org/深色壁纸/api.php",
 //"spider":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/tang.jar;md5;bace77c91270566ca6a959b935efbd0d", 
 //"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2648825eee03cb548b2c411002a7aad9",
 //"lives": [{"name": "live","type": 0,"url": "https://agit.ai/alanchaotang/if/raw/branch/main/LIVE/TV.txt","playerType": 1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 //{"name":"TV","type":0,"url":"https://agit.ai/alanchaotang/if/raw/branch/main/LIVE/global.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
-
 
 ##直播
 "lives":[
@@ -398,9 +398,6 @@
 {"name":"YanG•18+","type":0,"url":"https://agit.ai/juzhisan/YanG-1989m3u/raw/branch/main/Adult.m3u"},
 {"name":"Atsushi•18+","type":0,"url":"https://raw.sock.cf/atsushi444/iptv-epg/main/Adult.m3u"}
 ],
-
-
-
 
 "parses": [
 {"name":"自动解析","type":3,"url":"Demo"},
