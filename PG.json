@@ -65,13 +65,13 @@
       "searchable": 1,
       "changeable": 0
     },
-    {
+    //{
       "key": "Local",
       "name": "本地",
       "type": 3,
       "api": "csp_Local"
     },
-    {
+    //{
       "key": "PikPakShare",
       "name": "PikPak分享",
       "type": 3,
@@ -95,7 +95,7 @@
       "timeout": 60,
       "ext": "./lib/tokenm.json$$$./lib/alishare.txt"
     },
-    {
+    //{
       "key": "ThunderShare",
       "name": "迅雷云盘分享",
       "type": 3,
@@ -107,7 +107,7 @@
       "timeout": 60,
       "ext": "./lib/tokenm.json$$$./lib/thundershare.txt"
     },
-    {
+    //{
       "key": "QuarkShare",
       "name": "夸克云盘分享",
       "type": 3,
@@ -166,7 +166,7 @@
       "searchable": 0,
       "changeable": 1
     },
-    {
+    //{
       "key": "drpy_js_磁力熊",
       "name": "磁力熊[js]|索引",
       "type": 3,
@@ -177,7 +177,7 @@
       "quickSearch": 0,
       "changeable": 1
     },
-    {
+    //{
       "key": "bili",
       "name": "B站 | Bili[jar]",
       "type": 3,
@@ -340,7 +340,7 @@
       "timeout": 30,
       "ext": "./lib/tokenm.json"
     },
-    {
+    //{
       "key": "Funletu",
       "name": "趣盘搜|夸克",
       "type": 3,
@@ -351,7 +351,7 @@
       "timeout": 30,
       "ext": "./lib/tokenm.json"
     },
-    {
+    //{
       "key": "QuarkPanso",
       "name": "夸克盘搜|夸克",
       "type": 3,
@@ -613,7 +613,7 @@
       "changeable": 1,
       "timeout": 60
     },
-    {
+    //{
       "key": "drpy_js_愛盤搜",
       "name": "爱盘搜[js]|夸",
       "type": 3,
@@ -724,14 +724,14 @@
       "changeable": 0,
       "filterable": 1
     },
-    {
+    //{
       "key": "csp_YingShi",
       "name": "影视|海外",
       "type": 3,
       "api": "csp_YingShi",
       "ext": ""
     },
-    {
+    //{
       "key": "泥巴",
       "name": "泥巴 | 海外",
       "type": 3,
@@ -741,7 +741,7 @@
       "changeable": 0,
       "ext": "0$$$"
     },
-    {
+    //{
       "key": "星星",
       "name": "星星 | 海外",
       "type": 3,
@@ -750,7 +750,7 @@
       "changeable": 0,
       "ext": ""
     },
-    {
+    //{
       "key": "獨播",
       "name": "獨播 | 海外",
       "type": 3,
@@ -759,7 +759,7 @@
       "changeable": 0,
       "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json$$$"
     },
-    {
+    //{
       "key": "haiwaikan",
       "name": "海外看",
       "type": 1,
