@@ -12,7 +12,7 @@
     },
     {
       "key": "小雅内网",
-      "name": "Ⓜ️┃小雅┃本地",
+      "name": "小雅本地",
       "type": 3,
       "api": "csp_XiaoYa",
       "searchable": 1,
@@ -37,7 +37,7 @@
     },
     {
       "key": "小雅外网",
-      "name": "Ⓜ️┃小雅┃在线",
+      "name": "小雅在线",
       "type": 3,
       "api": "csp_XiaoYa",
       "searchable": 1,
