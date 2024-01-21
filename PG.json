@@ -86,7 +86,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://wogg.xyz/|104.16.245.50$$$null$$$1$$$https://agit.ai/leevi/PG/raw/branch/master/lib/wogg.json"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json$$$https://wogg.xyz/|104.16.245.50$$$null$$$1$$$https://agit.ai/leevi/PG/raw/branch/master/lib/wogg.json"
     },
     {
       "key": "影视车",
@@ -97,7 +97,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$https://agit.ai/leevi/PG/raw/branch/master/lib/wogg.json"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json$$$https://www.weixine.net/$$$null$$$1$$$https://agit.ai/leevi/PG/raw/branch/master/lib/wogg.json"
     },
     {
       "key": "Wobg",
@@ -108,7 +108,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$https://agit.ai/leevi/PG/raw/branch/master/lib/wogg.json"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json$$$https://wobge.run.goorm.io$$$null$$$1$$$https://agit.ai/leevi/PG/raw/branch/master/lib/wogg.json"
     },
     {
       "key": "Pan99",
@@ -119,7 +119,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://pan99.xyz$$$null$$$1"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json$$$https://pan99.xyz$$$null$$$1"
     },
     {
       "key": "Hdhive",
@@ -130,7 +130,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$null$$$1"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json$$$null$$$1"
     },
     {
       "key": "Ppxzy",
@@ -141,7 +141,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://ppxzy.net$$$null$$$1"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json$$$https://ppxzy.net$$$null$$$1"
     },
     {
       "key": "校长影视",
@@ -152,7 +152,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json$$$https://xzyshd.com$$$null$$$1"
     },
     {
       "key": "团长资源",
@@ -163,7 +163,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$null$$$1"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json$$$null$$$1"
     },
     {
       "key": "Libvio",
@@ -174,7 +174,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://www.libvio.pro$$$null"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json$$$https://www.libvio.pro$$$null"
     },
     {
       "key": "PanSearch",
@@ -185,7 +185,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json"
     },
     {
       "key": "88Pan",
@@ -193,7 +193,7 @@
       "type": 3,
       "api": "csp_EightEight",
       "timeout": 30,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://662688.xyz"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json$$$https://662688.xyz"
     },
     {
       "key": "盘搜",
@@ -201,7 +201,7 @@
       "type": 3,
       "api": "csp_PanSou",
       "timeout": 30,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json"
     },
     {
       "key": "易搜",
@@ -209,7 +209,7 @@
       "type": 3,
       "api": "csp_YiSo",
       "timeout": 30,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://agit.ai/leevi/PG/raw/branch/master/lib/yiso.txt"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json$$$https://agit.ai/leevi/PG/raw/branch/master/lib/yiso.txt"
     },
     {
       "key": "混合盘",
@@ -217,7 +217,7 @@
       "type": 3,
       "api": "csp_HunHePan",
       "timeout": 30,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json"
     },
     {
       "key": "秒搜",
@@ -225,7 +225,7 @@
       "type": 3,
       "api": "csp_MiaoSou",
       "timeout": 30,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json"
     },
     {
       "key": "Funletu",
@@ -236,7 +236,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json"
     },
     {
       "key": "Panta",
@@ -247,7 +247,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json$$$https://www.91panta.cn/$$$null$$$1"
     },
     {
       "key": "DaPanSo",
@@ -258,7 +258,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://dapanso.com$$$null"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json$$$https://dapanso.com$$$null"
     },
     {
       "key": "PikaSo",
@@ -269,7 +269,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://www.pikaso.top/$$$null"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json$$$https://www.pikaso.top/$$$null"
     },
     {
       "key": "Qianfan",
@@ -280,7 +280,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$https://agit.ai/leevi/PG/raw/branch/master/lib/qianfan.txt"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json$$$https://pan.qianfan.app$$$null$$$https://agit.ai/leevi/PG/raw/branch/master/lib/qianfan.txt"
     },
     {
       "key": "YunSo",
@@ -291,7 +291,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json"
     },
     {
       "key": "YunPanOne",
@@ -302,7 +302,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json"
     },
     {
       "key": "Ys23",
@@ -332,7 +332,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "timeout": 30,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json"
     },
     {
       "key": "Gitcafe",
@@ -343,7 +343,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "timeout": 30,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json"
     },
     {
       "key": "新6V",
@@ -353,7 +353,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json$$$https://www.66ss.org$$$null$$$1"
     },
     {
       "key": "河马",
@@ -528,7 +528,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://agit.ai/leevi/PG/raw/branch/master/lib/4khdr.txt$$$1"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json$$$https://agit.ai/leevi/PG/raw/branch/master/lib/4khdr.txt$$$1"
     },
     {
       "key": "UP云搜",
@@ -536,7 +536,7 @@
       "type": 3,
       "api": "csp_UpYun",
       "timeout": 30,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json"
     },
     {
       "key": "JustLive",
@@ -590,7 +590,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json$$$https://agit.ai/leevi/PG/raw/branch/master/lib/alishare.txt"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json$$$https://agit.ai/leevi/PG/raw/branch/master/lib/alishare.txt"
     },
     {
       "key": "快看",
@@ -739,7 +739,7 @@
       "api": "csp_Push",
       "changeable": 0,
       "timeout": 30,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json"
     },
     {
       "key": "网盘配置",
@@ -748,7 +748,7 @@
       "api": "csp_Config",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"
+      "ext": "https://agit.ai/leevi/PG/raw/branch/master/lib/tokentemplate.json"
     },
     {
       "key": "直播转点播",
