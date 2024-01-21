@@ -65,24 +65,7 @@
       "searchable": 1,
       "changeable": 0
     },
-    //{
-      "key": "Local",
-      "name": "本地",
-      "type": 3,
-      "api": "csp_Local"
-    },
-    //{
-      "key": "PikPakShare",
-      "name": "PikPak分享",
-      "type": 3,
-      "api": "csp_PikPakShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 0,
-      "timeout": 60,
-      "ext": "./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz"
-    },
+    
     {
       "key": "AliShare",
       "name": "阿里云盘分享",
@@ -95,39 +78,7 @@
       "timeout": 60,
       "ext": "./lib/tokenm.json$$$./lib/alishare.txt"
     },
-    //{
-      "key": "ThunderShare",
-      "name": "迅雷云盘分享",
-      "type": 3,
-      "api": "csp_ThunderShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 0,
-      "timeout": 60,
-      "ext": "./lib/tokenm.json$$$./lib/thundershare.txt"
-    },
-    //{
-      "key": "QuarkShare",
-      "name": "夸克云盘分享",
-      "type": 3,
-      "api": "csp_QuarkShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 0,
-      "timeout": 60,
-      "ext": "./lib/tokenm.json$$$./lib/quarkshare.txt"
-    },
-    {
-      "key": "网盘配置",
-      "name": "网盘及彈幕配置",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "./lib/tokenm.json"
-    },
+
     {
       "key": "直播转点播",
       "name": "🐼️┃电视┃直播",
@@ -166,30 +117,7 @@
       "searchable": 0,
       "changeable": 1
     },
-    //{
-      "key": "drpy_js_磁力熊",
-      "name": "磁力熊[js]|索引",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/cilixiongp.js",
-      "playerType": "1",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 1
-    },
-    //{
-      "key": "bili",
-      "name": "B站 | Bili[jar]",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "type": "演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
-        "cookie": ""
-      }
-    },
+    
     {
       "key": "Wogg",
       "name": "玩偶哥哥|阿里",
@@ -340,28 +268,7 @@
       "timeout": 30,
       "ext": "./lib/tokenm.json"
     },
-    //{
-      "key": "Funletu",
-      "name": "趣盘搜|夸克",
-      "type": 3,
-      "api": "csp_Funletu",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "ext": "./lib/tokenm.json"
-    },
-    //{
-      "key": "QuarkPanso",
-      "name": "夸克盘搜|夸克",
-      "type": 3,
-      "api": "csp_QuarkPanso",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "ext": "./lib/tokenm.json"
-    },
+
     {
       "key": "Panta",
       "name": "盘Ta|网盘",
@@ -613,16 +520,7 @@
       "changeable": 1,
       "timeout": 60
     },
-    //{
-      "key": "drpy_js_愛盤搜",
-      "name": "爱盘搜[js]|夸",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/aipanso.js",
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 30
-    },
+    
     {
       "key": "drpy_js_人人影视",
       "name": "人人影视[js]|搜",
@@ -724,83 +622,7 @@
       "changeable": 0,
       "filterable": 1
     },
-    //{
-      "key": "csp_YingShi",
-      "name": "影视|海外",
-      "type": 3,
-      "api": "csp_YingShi",
-      "ext": ""
-    },
-    //{
-      "key": "泥巴",
-      "name": "泥巴 | 海外",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "0$$$"
-    },
-    //{
-      "key": "星星",
-      "name": "星星 | 海外",
-      "type": 3,
-      "api": "csp_Star",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": ""
-    },
-    //{
-      "key": "獨播",
-      "name": "獨播 | 海外",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json$$$"
-    },
-    //{
-      "key": "haiwaikan",
-      "name": "海外看",
-      "type": 1,
-      "api": "https://haiwaikan.com/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "日本动漫",
-        "国产动漫",
-        "欧美动漫",
-        "国产剧",
-        "韩剧",
-        "日剧",
-        "台剧",
-        "泰剧",
-        "港剧",
-        "欧美剧",
-        "动画电影",
-        "韩国综艺",
-        "国产综艺",
-        "日本综艺",
-        "欧美综艺",
-        "冒险片",
-        "剧情片",
-        "动作片",
-        "同性片",
-        "喜剧片",
-        "奇幻片",
-        "恐怖片",
-        "悬疑片",
-        "惊悚片",
-        "战争片",
-        "歌舞片",
-        "灾难片",
-        "爱情片",
-        "犯罪片",
-        "科幻片",
-        "纪录片",
-        "经典片"
-      ]
-    },
+
     {
       "key": "暴風",
       "name": "暴風",
@@ -931,6 +753,15 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0
+    },
+    {
+      "key": "网盘配置",
+      "name": "网盘及彈幕配置",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "./lib/tokenm.json"
     },
     {
       "key": "push_agent",
