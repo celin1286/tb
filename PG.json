@@ -57,36 +57,7 @@
         "🈴我的阿里分享"
       ]
     },
-    {
-      "key": "酷狗",
-      "name": "酷狗",
-      "type": 3,
-      "api": "csp_Kugou",
-      "searchable": 1,
-      "changeable": 0
-    },
-    
-    {
-      "key": "AliShare",
-      "name": "阿里云盘分享",
-      "type": 3,
-      "api": "csp_AliShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 0,
-      "timeout": 60,
-      "ext": "./lib/tokenm.json$$$./lib/alishare.txt"
-    },
 
-    {
-      "key": "直播转点播",
-      "name": "🐼️┃电视┃直播",
-      "type": 3,
-      "searchable": 0,
-      "api": "./lib/live2vod.js",
-      "ext": "./lib/feimaolive.json"
-    },
     {
       "key": "996影院",
       "name": "996影院",
@@ -95,27 +66,6 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "https://www.cs1369.com$$$null$$$1"
-    },
-    {
-      "key": "FirstAid",
-      "name": "🚑 急救知识 ",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 3.8
-      }
-    },
-    {
-      "key": "短剧",
-      "name": "短剧",
-      "type": 3,
-      "api": "csp_Duanju",
-      "searchable": 0,
-      "changeable": 1
     },
     
     {
@@ -375,6 +325,43 @@
       "filterable": 0,
       "timeout": 30,
       "ext": "./lib/tokenm.json"
+    },
+      {
+      "key": "酷狗",
+      "name": "酷狗",
+      "type": 3,
+      "api": "csp_Kugou",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "短剧",
+      "name": "短剧",
+      "type": 3,
+      "api": "csp_Duanju",
+      "searchable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "AliShare",
+      "name": "阿里云盘分享",
+      "type": 3,
+      "api": "csp_AliShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 0,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$./lib/alishare.txt"
+    },
+
+    {
+      "key": "直播转点播",
+      "name": "🐼️┃电视┃直播",
+      "type": 3,
+      "searchable": 0,
+      "api": "./lib/live2vod.js",
+      "ext": "./lib/feimaolive.json"
     },
     {
       "key": "新6V",
@@ -727,6 +714,19 @@
       "api": "./js/ikanbot_open.js",
       "searchable": 1,
       "changeable": 0
+    },
+    {
+      "key": "FirstAid",
+      "name": "🚑 急救知识 ",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
     },
     {
       "key": "drpy_js_Alist",
