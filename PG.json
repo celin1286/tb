@@ -67,18 +67,7 @@
       "changeable": 1,
       "ext": "https://www.cs1369.com$$$null$$$1"
     },
-    
-    {
-      "key": "Wogg",
-      "name": "玩偶哥哥|阿里",
-      "type": 3,
-      "api": "csp_Wogg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "ext": "./lib/tokenm.json$$$https://wogg.xyz/|104.16.245.50$$$null$$$1$$$./lib/wogg.json"
-    },
+    {"key":"Wogg","name":"玩偶哥哥|阿里","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json"},
     {
       "key": "影视车",
       "name": "影视车|网盘",
