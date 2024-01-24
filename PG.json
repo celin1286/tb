@@ -75,7 +75,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json"
+      "ext": "./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json"
     },
     {
       "key": "影视车",
@@ -86,7 +86,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json"
+      "ext": "./lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json"
     },
     {
       "key": "Wobg",
@@ -97,7 +97,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"
+      "ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"
     },
     {
       "key": "Pan99",
@@ -108,7 +108,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json$$$https://pan99.xyz$$$null$$$1"
+      "ext": "./lib/tokenm.json$$$https://pan99.xyz$$$null$$$1"
     },
     {
       "key": "Hdhive",
@@ -119,7 +119,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json$$$null$$$1"
+      "ext": "./lib/tokenm.json$$$null$$$1"
     },
     {
       "key": "Ppxzy",
@@ -130,7 +130,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json$$$https://ppxzy.net$$$null$$$1"
+      "ext": "./lib/tokenm.json$$$https://ppxzy.net$$$null$$$1"
     },
     {
       "key": "校长影视",
@@ -141,7 +141,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"
+      "ext": "./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"
     },
     {
       "key": "团长资源",
@@ -152,7 +152,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json$$$null$$$1"
+      "ext": "./lib/tokenm.json$$$null$$$1"
     },
     {
       "key": "Libvio",
@@ -163,7 +163,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json$$$https://www.libvio.pro$$$null"
+      "ext": "./lib/tokenm.json$$$https://www.libvio.pro$$$null"
     },
     {
       "key": "PanSearch",
@@ -174,7 +174,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json"
+      "ext": "./lib/tokenm.json"
     },
     {
       "key": "88Pan",
@@ -182,7 +182,7 @@
       "type": 3,
       "api": "csp_EightEight",
       "timeout": 30,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json$$$https://662688.xyz"
+      "ext": "./lib/tokenm.json$$$https://662688.xyz"
     },
     {
       "key": "盘搜",
@@ -190,7 +190,7 @@
       "type": 3,
       "api": "csp_PanSou",
       "timeout": 30,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json"
+      "ext": "./lib/tokenm.json"
     },
     {
       "key": "易搜",
@@ -198,7 +198,7 @@
       "type": 3,
       "api": "csp_YiSo",
       "timeout": 30,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json$$$./lib/yiso.txt"
+      "ext": "./lib/tokenm.json$$$./lib/yiso.txt"
     },
     {
       "key": "混合盘",
@@ -206,7 +206,7 @@
       "type": 3,
       "api": "csp_HunHePan",
       "timeout": 30,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json"
+      "ext": "./lib/tokenm.json"
     },
     {
       "key": "秒搜",
@@ -214,7 +214,7 @@
       "type": 3,
       "api": "csp_MiaoSou",
       "timeout": 30,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json"
+      "ext": "./lib/tokenm.json"
     },
     {
       "key": "Panta",
@@ -225,7 +225,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1"
+      "ext": "./lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1"
     },
     {
       "key": "DaPanSo",
@@ -236,7 +236,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json$$$https://dapanso.com$$$null"
+      "ext": "./lib/tokenm.json$$$https://dapanso.com$$$null"
     },
     {
       "key": "PikaSo",
@@ -247,7 +247,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json$$$https://www.pikaso.top/$$$null"
+      "ext": "./lib/tokenm.json$$$https://www.pikaso.top/$$$null"
     },
     {
       "key": "Qianfan",
@@ -258,7 +258,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$./lib/qianfan.txt"
+      "ext": "./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$./lib/qianfan.txt"
     },
     {
       "key": "YunSo",
@@ -269,7 +269,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json"
+      "ext": "./lib/tokenm.json"
     },
     {
       "key": "YunPanOne",
@@ -280,7 +280,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json"
+      "ext": "./lib/tokenm.json"
     },
     {
       "key": "Ys23",
@@ -310,7 +310,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "timeout": 30,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json"
+      "ext": "./lib/tokenm.json"
     },
     {
       "key": "Gitcafe",
@@ -321,7 +321,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "timeout": 30,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json"
+      "ext": "./lib/tokenm.json"
     },
     {
       "key": "酷狗",
@@ -349,7 +349,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json$$$./lib/alishare.txt"
+      "ext": "./lib/tokenm.json$$$./lib/alishare.txt"
     },
     {
       "key": "QuarkShare",
@@ -361,7 +361,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json$$$./lib/quarkshare.txt"
+      "ext": "./lib/tokenm.json$$$./lib/quarkshare.txt"
     },
     {
       "key": "直播转点播",
@@ -379,7 +379,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
+      "ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
     },
     {
       "key": "河马",
@@ -544,7 +544,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json$$$./lib/4khdr.txt$$$1"
+      "ext": "./lib/tokenm.json$$$./lib/4khdr.txt$$$1"
     },
     {
       "key": "UP云搜",
@@ -552,7 +552,7 @@
       "type": 3,
       "api": "csp_UpYun",
       "timeout": 30,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json"
+      "ext": "./lib/tokenm.json"
     },
     {
       "key": "JustLive",
@@ -767,7 +767,7 @@
       "api": "csp_Config",
       "searchable": 0,
       "changeable": 0,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json"
+      "ext": "./lib/tokenm.json"
     },
     {
       "key": "push_agent",
@@ -776,7 +776,7 @@
       "api": "csp_Push",
       "changeable": 0,
       "timeout": 30,
-      "ext": "http://115.235.167.10:88/pg/lib/tokenm.json"
+      "ext": "./lib/tokenm.json"
     },
     {
       "key": "應用商店",
