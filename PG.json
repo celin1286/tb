@@ -18,8 +18,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/spring.jar",
-      "ext": "eyJhcGlLZXkiOiI4NTM4MGM0ZC1lYzcwLTQ3MTAtOTMxZi1mNWMwZjY4MTA0NWUiLCJhcGkiOiJodHRwOi8vMTkyLjE2OC4xLjI6NDU2NyJ9",
+      "jar": "http://192.168.1.2:4567/spring.jar",
+      "ext": "eyJhcGkiOiJodHRwOi8vMTkyLjE2OC4xLjI6NDU2NyIsInRva2VuIjoiIn0",
       "categories": [
         "最新",
         "国产剧",
