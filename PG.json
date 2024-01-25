@@ -35,28 +35,7 @@
         "动漫"
       ]
     },
-    {
-      "key": "小雅外网",
-      "name": "小雅在线",
-      "type": 3,
-      "api": "csp_XiaoYa",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/spring.jar",
-      "ext": "eyJhcGkiOiJodHRwOi8vMTIxLjIzNy41Ni4yMDc6NDU2NyIsInRva2VuIjoiIn0=",
-      "categories": [
-        "每日更新",
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫",
-        "纪录片",
-        "教育",
-        "整理中",
-        "🈴我的阿里分享"
-      ]
-    },
+    {"key": "小雅外网","name": "小雅在线","type": 3,"api": "csp_XiaoYa","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/spring.jar","ext": "eyJhcGkiOiJodHRwOi8vMTIxLjIzNy41Ni4yMDc6NDU2NyIsInRva2VuIjoiIn0=","categories": [ "同步追剧","每日更新","电影","电视剧","综艺","动漫","纪录片"]},
     {"key":"csp_qiumi","name":"⚽ Jrs┃球迷","type": 3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/jrk.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
     {
       "key": "996影院",
