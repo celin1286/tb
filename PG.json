@@ -36,7 +36,32 @@
       ]
     },
     {
-      "key": "小雅外网",
+      "key": "老妈影视",
+      "name": "老妈影视",
+      "type": 3,
+      "api": "csp_XiaoYa",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/spring.jar",
+      "ext": "eyJhcGkiOiJodHRwOi8vdGIud3ZsZXNzLmxpbmsiLCJ0b2tlbiI6ImNlbGluMTI4NiJ9",
+      "categories": [
+        "最新",
+        "国产剧",
+        "欧美剧",
+        "日韩剧",
+        "中国电影",
+        "欧美电影",
+        "日韩电影",
+        "电视剧",
+        "电影",
+        "纪录片",
+        "综艺",
+        "动漫"
+      ]
+    },
+    {
+      "key": "大大影视",
       "name": "大大影视",
       "type": 3,
       "api": "csp_XiaoYa",
