@@ -29,6 +29,22 @@
       "search": true,
       "searchable": true,
       "server": "http://121.37.158.73:5678"
+    },
+    {
+      "name": "9T",
+      "search": true,
+      "searchable": true,
+      "server": "https://drive.9t.ee/",
+      "params": [
+        {
+          "path": "/OneDrive",
+          "pass": "dooglu"
+        },
+        {
+          "path": "/115Cloud",
+          "pass": "dooglu"
+        }
+      ]
     }
   ]
 }
