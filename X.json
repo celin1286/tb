@@ -378,6 +378,8 @@
 {"name":"初秋语•综合","type":0,"url":"https://agit.ai/juzhisan/gao/raw/branch/master/list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YueChan•综合","type":0,"url":"https://fongmi.cachefly.net/YueChan/Live/main/IPTV.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"GoGo•综合","type":0,"url":"https://famou.deno.dev/GOgo8Go/iptv-sources/gh-pages/txt/channels.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"Meroser•综合","type":0,"url":"https://famou.deno.dev/Meroser/IPTV/main/IPTV-tvbox.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 
 {"name":"YanG•18+","type":0,"url":"https://agit.ai/juzhisan/YanG-1989m3u/raw/branch/main/Adult.m3u"},
 {"name":"Atsushi•18+","type":0,"url":"https://raw.sock.cf/atsushi444/iptv-epg/main/Adult.m3u"}
