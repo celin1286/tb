@@ -61,15 +61,15 @@
       ]
     },
     {
-      "key": "梅州影视",
-      "name": "梅州影视",
+      "key": "台州影视",
+      "name": "台州影视",
       "type": 3,
       "api": "csp_XiaoYa",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "jar": "./jar/spring.jar",
-      "ext": "eyJhcGkiOiJodHRwOi8vMTE2LjE2LjM2LjM0OjM0NTY3IiwidG9rZW4iOiIifQ==",
+      "ext": "eyJhcGkiOiJodHRwOi8vNjAuMTg2LjEyMi42Mzo0NTY3IiwidG9rZW4iOiIifQ",
       "categories": [
         "同步追剧",
         "每日更新",
