@@ -61,15 +61,15 @@
       ]
     },
     {
-      "key": "小雅在线",
-      "name": "小雅在线",
+      "key": "梅州影视",
+      "name": "梅州影视",
       "type": 3,
       "api": "csp_XiaoYa",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "jar": "./jar/spring.jar",
-      "ext": "eyJhcGkiOiJodHRwOi8vMTE3Ljg5LjE2NC4yMTM6NDU2NyIsInRva2VuIjoiIn0",
+      "ext": "eyJhcGkiOiJodHRwOi8vMTE2LjE2LjM2LjM0OjM0NTY3IiwidG9rZW4iOiIifQ==",
       "categories": [
         "同步追剧",
         "每日更新",
