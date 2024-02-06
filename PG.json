@@ -1,5 +1,5 @@
 {
-  "spider": "./pg.jar",
+  "spider": "./jar/pg.jar",
   "sites": [
     {
       "key": "豆瓣",
@@ -18,7 +18,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://raw.sock.cf/celin1286/tb/main/jar/spring.jar",
+      "jar": "./jar/spring.jar",
       "ext": "eyJhcGkiOiJodHRwOi8vMTkyLjE2OC4xLjI6NDU2NyIsInRva2VuIjoiIn0",
       "categories": [
         "最新",
@@ -43,7 +43,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://raw.sock.cf/celin1286/tb/main/jar/spring.jar",
+      "jar": "./jar/spring.jar",
       "ext": "eyJhcGkiOiJodHRwOi8vdGIud3ZsZXNzLmxpbmsiLCJ0b2tlbiI6ImNlbGluMTI4NiJ9",
       "categories": [
         "最新",
@@ -68,7 +68,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://raw.sock.cf/celin1286/tb/main/jar/spring.jar",
+      "jar": "./jar/spring.jar",
       "ext": "eyJhcGkiOiJodHRwOi8vMTgzLjE1LjIwNC40OTo0NTY3IiwidG9rZW4iOiIifQ==",
       "categories": [
         "每日更新",
