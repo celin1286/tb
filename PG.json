@@ -34,7 +34,7 @@
 			}
 		},
 		{"key":"QuarkShare","name":"夸克云盘分享","type":3,"api":"csp_QuarkShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/quarkshare.txt"},
-		{"key":"ThunderShare","name":"迅雷云盘分享","type":3,"api":"csp_ThunderShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/thundershare.txt"},
+		//{"key":"ThunderShare","name":"迅雷云盘分享","type":3,"api":"csp_ThunderShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/thundershare.txt"},
 		{
 			"key": "直播转点播",
 			"name": "🐼️┃电视┃直播",
@@ -268,7 +268,7 @@
 			"changeable": 0,
 			"filterable": 1
 		},
-		{ "key":"csp_YingShi","name":"影视|海外","type":3,"api":"csp_YingShi","ext":""},
+		//{ "key":"csp_YingShi","name":"影视|海外","type":3,"api":"csp_YingShi","ext":""},
 		{ 
 			"key": "泥巴", 
 			"name": "泥巴 | 海外", 
@@ -279,7 +279,7 @@
 			"changeable": 0, 
 			"ext":"0$$$" 
 		},
-		{
+		//{
 			"key": "星星",
 			"name": "星星 | 海外",
 			"type": 3,
@@ -288,7 +288,7 @@
 			"changeable": 0,
 			"ext":""
 		},
-		{
+		//{
 			"key": "獨播",
 			"name": "獨播 | 海外",
 			"type": 3,
@@ -297,7 +297,7 @@
 			"changeable": 0,
 			"ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json$$$"
 		},
-		{
+		//{
 			"key": "haiwaikan",
 			"name": "海外看",
 			"type": 1,
