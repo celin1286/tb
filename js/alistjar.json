@@ -1,50 +1,10 @@
 {
   "drives": [
     {
-      "name": "小雅93",
+      "name": "alist.jar",
       "search": true,
       "searchable": true,
-      "server": "http://111.230.74.93:666"
-    },
-    {
-      "name": "小雅3",
-      "search": true,
-      "searchable": true,
-      "server": "http://116.204.122.3:5678"
-    },
-    {
-      "name": "小雅95",
-      "search": true,
-      "searchable": true,
-      "server": "http://123.60.142.95:5678"
-    },
-    {
-      "name": "小雅109",
-      "search": true,
-      "searchable": true,
-      "server": "http://123.60.142.109:5678"
-    },
-    {
-      "name": "小雅73",
-      "search": true,
-      "searchable": true,
-      "server": "http://121.37.158.73:5678"
-    },
-    {
-      "name": "9T",
-      "search": true,
-      "searchable": true,
-      "server": "https://drive.9t.ee/",
-      "params": [
-        {
-          "path": "/OneDrive",
-          "pass": "dooglu"
-        },
-        {
-          "path": "/115Cloud",
-          "pass": "dooglu"
-        }
-      ]
+      "server": "http://192.168.101.13:5244"
     }
   ]
 }
