@@ -979,14 +979,6 @@
   ],
   "lives": [
     {
-      "name": "Ray•综合",
-      "type": 0,
-      "url": "https://xhdwc.tk/tvlive.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
       "name": "Fan•综合",
       "type": 0,
       "url": "https://agit.ai/juzhisan/dxawi/raw/branch/main/tvlive.txt",
