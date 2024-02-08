@@ -1044,7 +1044,7 @@
     {
       "name": "YueChan•综合",
       "type": 0,
-      "url": "https://fongmi.cachefly.net/YueChan/Live/main/IPTV.m3u",
+      "url": "https://famou.deno.dev/YueChan/Live/main/IPTV.m3u",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
