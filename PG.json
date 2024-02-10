@@ -68,8 +68,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/spring.jar",
-      "ext": "eyJhcGkiOiJodHRwOi8vMTE5LjkxLjM1LjI5OjQ1NjciLCJ0b2tlbiI6IiJ9",
+      "jar":"./jar/spring.jar",
+      "ext":"eyJhcGkiOiJodHRwOi8vMTE5LjkxLjM1LjI5OjQ1NjciLCJ0b2tlbiI6IiJ9",
       "categories": [
         "每日更新",
         "电影",
