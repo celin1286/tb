@@ -1,9 +1,9 @@
 {
 "sites":[
 ##搜索系列
-{"key": "豆瓣","name":"Ⓜ️┃豆瓣┃荐片","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alanchaotang/if/raw/branch/main/js/豆瓣.js"},
+{"key": "豆瓣","name":"㊗️┃🏮祝大家新春快乐龙年大吉🏮","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alanchaotang/if/raw/branch/main/js/豆瓣.js"},
 {"key": "小雅内网","name": "Ⓜ️┃小雅┃本地","type": 3,"api": "csp_XiaoYa","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://raw.sock.cf/celin1286/tb/main/jar/spring.jar","ext": "eyJhcGkiOiJodHRwOi8vMTkyLjE2OC4xLjI6NDU2NyIsInRva2VuIjoiIn0","categories": ["最新","国产剧","欧美剧","日韩剧","中国电影","欧美电影","日韩电影","电视剧","电影","纪录片","综艺","动漫"]},
-{"key": "北方影视","name": "Ⓜ️┃北方┃影视","type": 3,"api": "csp_XiaoYa","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://raw.sock.cf/celin1286/tb/main/jar/spring.jar","ext":"eyJhcGkiOiJodHRwOi8vMTI0LjIyMC42NS4xODk6NDU2NyIsInRva2VuIjoiU2xKVGlFS00ifQ==","categories": ["每日更新","电影","电视剧","综艺","动漫","纪录片","🈴我的阿里分享"]},
+{"key": "常州影视","name": "Ⓜ️┃常州┃影视","type": 3,"api": "csp_XiaoYa","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://raw.sock.cf/celin1286/tb/main/jar/spring.jar","ext":"eyJhcGkiOiJodHRwOi8vNTguMjQxLjc5Ljk6NDU2NyIsInRva2VuIjoiIn0=","categories": ["每日更新","电影","电视剧","综艺","动漫","纪录片","🈴我的阿里分享"]},
 {"key":"csp_qiumi","name":"Ⓜ️┃JRS┃球迷","type": 3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/jrk.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
 {"key": "push_agent","name": "Ⓜ️┃阿里┃推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30,"jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/pg.jar", "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"},
 {"key":"南瓜","name":"🎃┃南瓜┃影视","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
@@ -363,7 +363,7 @@
 //"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 //"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 //"spider":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705477777977/fan.txt;md5;eea132982ffc884d7a39295f06a5141c",
-"spider":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707044072121/fan.txt;md5;c3e8c08b4cd6f7fd0f868ea48dd42cb2",
+"spider":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707552573492/fan.txt;md5;4eec8bf0a642330662224a01636e0df6",
 "wallpaper":"http://www.饭太硬.top/深色壁纸/api.php",
 //"spider": "https://agit.ai/alanchaotang/if/raw/branch/main/jar/fan.jar;md5;eea132982ffc884d7a39295f06a5141c",
 //"wallpaper":"http://饭.eu.org/深色壁纸/api.php",
@@ -382,7 +382,7 @@
 {"name":"饭太硬•综合","type":0,"url":"https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Yoursmile•综合","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"初秋语•综合","type":0,"url":"https://agit.ai/juzhisan/gao/raw/branch/master/list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"YueChan•综合","type":0,"url":"https://famou.deno.dev/YueChan/Live/main/IPTV.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"YueChan•综合","type":0,"url":"https://fongmi.cachefly.net/YueChan/Live/main/IPTV.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"GoGo•综合","type":0,"url":"https://famou.deno.dev/GOgo8Go/iptv-sources/gh-pages/txt/channels.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Meroser•综合","type":0,"url":"https://famou.deno.dev/Meroser/IPTV/main/IPTV-tvbox.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
