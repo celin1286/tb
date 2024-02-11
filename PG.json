@@ -36,15 +36,15 @@
       ]
     },
     {
-      "key": "北方影视",
-      "name": "北方影视",
+      "key": "常州影视",
+      "name": "常州影视",
       "type": 3,
       "api": "csp_XiaoYa",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "jar":"./jar/spring.jar",
-      "ext":"eyJhcGkiOiJodHRwOi8vMTI0LjIyMC42NS4xODk6NDU2NyIsInRva2VuIjoiU2xKVGlFS00ifQ==",
+      "ext":"eyJhcGkiOiJodHRwOi8vNTguMjQxLjc5Ljk6NDU2NyIsInRva2VuIjoiIn0=",
       "categories": [
         "每日更新",
         "电影",
