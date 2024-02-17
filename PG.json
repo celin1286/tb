@@ -8,17 +8,18 @@
       "api": "csp_Douban",
       "searchable": 0,
       "changeable": 1,
+      "indexs": 1,
       "ext": "./lib/douban.json"
     },
     {
       "key": "小雅内网",
-      "name": "小雅本地",
+      "name": "Ⓜ️┃小雅┃本地",
       "type": 3,
       "api": "csp_XiaoYa",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/spring.jar",
+      "jar": "https://raw.sock.cf/celin1286/tb/main/jar/spring.jar",
       "ext": "eyJhcGkiOiJodHRwOi8vMTkyLjE2OC4xLjI6NDU2NyIsInRva2VuIjoiIn0",
       "categories": [
         "最新",
@@ -37,14 +38,14 @@
     },
     {
       "key": "常州影视",
-      "name": "常州影视",
+      "name": "Ⓜ️┃常州┃影视",
       "type": 3,
       "api": "csp_XiaoYa",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jar/spring.jar",
-      "ext":"eyJhcGkiOiJodHRwOi8vNTguMjQxLjc5Ljk6NDU2NyIsInRva2VuIjoiIn0=",
+      "jar": "https://raw.sock.cf/celin1286/tb/main/jar/spring.jar",
+      "ext": "eyJhcGkiOiJodHRwOi8vNTguMjQxLjc5Ljk6NDU2NyIsInRva2VuIjoiIn0=",
       "categories": [
         "每日更新",
         "电影",
@@ -57,7 +58,7 @@
     },
     {
       "key": "csp_qiumi",
-      "name": "JRS球迷",
+      "name": "Ⓜ️┃JRS┃球迷",
       "type": 3,
       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jrk.js",
@@ -177,7 +178,8 @@
       "playerType": "1",
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 1
+      "changeable": 1,
+      "indexs": 1
     },
     {
       "key": "bili",
@@ -1019,7 +1021,7 @@
     {
       "name": "YueChan•综合",
       "type": 0,
-      "url": "https://famou.deno.dev/YueChan/Live/main/IPTV.m3u",
+      "url": "https://fongmi.cachefly.net/YueChan/Live/main/IPTV.m3u",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -1057,50 +1059,6 @@
       "name": "Atsushi•18+",
       "type": 0,
       "url": "https://raw.sock.cf/atsushi444/iptv-epg/main/Adult.m3u"
-    }
-  ],
-  "doh": [
-    {
-      "name": "Google",
-      "url": "https://dns.google/dns-query",
-      "ips": [
-        "8.8.4.4",
-        "8.8.8.8"
-      ]
-    },
-    {
-      "name": "Cloudflare",
-      "url": "https://cloudflare-dns.com/dns-query",
-      "ips": [
-        "1.1.1.1",
-        "1.0.0.1",
-        "2606:4700:4700::1111",
-        "2606:4700:4700::1001"
-      ]
-    },
-    {
-      "name": "AdGuard",
-      "url": "https://dns.adguard.com/dns-query",
-      "ips": [
-        "94.140.14.140",
-        "94.140.14.141"
-      ]
-    },
-    {
-      "name": "DNSWatch",
-      "url": "https://resolver2.dns.watch/dns-query",
-      "ips": [
-        "84.200.69.80",
-        "84.200.70.40"
-      ]
-    },
-    {
-      "name": "Quad9",
-      "url": "https://dns.quad9.net/dns-quer",
-      "ips": [
-        "9.9.9.9",
-        "149.112.112.112"
-      ]
     }
   ],
   "rules": [
