@@ -13,7 +13,7 @@
     },
     {
       "key": "小雅内网",
-      "name": "Ⓜ️┃小雅┃本地",
+      "name": "小雅本地",
       "type": 3,
       "api": "csp_XiaoYa",
       "searchable": 1,
@@ -38,7 +38,7 @@
     },
     {
       "key": "常州影视",
-      "name": "Ⓜ️┃常州┃影视",
+      "name": "常州影视",
       "type": 3,
       "api": "csp_XiaoYa",
       "searchable": 1,
@@ -58,7 +58,7 @@
     },
     {
       "key": "csp_qiumi",
-      "name": "Ⓜ️┃JRS┃球迷",
+      "name": "JRS球迷",
       "type": 3,
       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jrk.js",
