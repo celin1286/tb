@@ -37,15 +37,15 @@
       ]
     },
     {
-      "key": "常州影视",
-      "name": "常州影视",
+      "key": "苏州影视",
+      "name": "苏州影视",
       "type": 3,
       "api": "csp_XiaoYa",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://raw.sock.cf/celin1286/tb/main/jar/spring.jar",
-      "ext": "eyJhcGkiOiJodHRwOi8vNTguMjQxLjc5Ljk6NDU2NyIsInRva2VuIjoiIn0=",
+      "ext": "eyJhcGkiOiJodHRwOi8vMTUzLjM0LjQuMTM6NDU2NyIsInRva2VuIjoiIn0=",
       "categories": [
         "每日更新",
         "电影",
