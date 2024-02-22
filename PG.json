@@ -63,7 +63,7 @@
       "api": "csp_Buleitv",
       "jar": "./jar/zyb.jar",
       "searchable": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "key": "Yingtantv",
@@ -72,7 +72,7 @@
       "api": "csp_Yingtantv2",
       "jar": "./jar/zyb.jar",
       "searchable": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "key": "Zhuiyitv",
@@ -81,7 +81,7 @@
       "api": "csp_Zhuiyitv",
       "jar": "./jar/zyb.jar",
       "searchable": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "key": "csp_qiumi",
