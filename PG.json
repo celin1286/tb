@@ -1,5 +1,5 @@
 {
-
+  "spider": "./jar/pg.jar",
   "sites": [
     {
       "key": "豆瓣",
@@ -37,15 +37,15 @@
       ]
     },
     {
-      "key": "苏州影视",
-      "name": "苏州影视",
+      "key": "上海影视",
+      "name": "上海影视",
       "type": 3,
       "api": "csp_XiaoYa",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://raw.sock.cf/celin1286/tb/main/jar/spring.jar",
-      "ext": "eyJhcGkiOiJodHRwOi8vMTUzLjM0LjQuMTM6NDU2NyIsInRva2VuIjoiIn0=",
+      "ext": "eyJhcGkiOiJodHRwOi8vMTM5LjIyNy41Mi4xMzU6NDU2NyIsInRva2VuIjoiIn0=",
       "categories": [
         "每日更新",
         "电影",
@@ -431,6 +431,17 @@
       "filterable": 1,
       "timeout": 30,
       "ext": "./lib/tokenm.json"
+    },
+    {
+      "key": "Yingtantv",
+      "name": "影探|直连",
+      "type": 3,
+      "api": "csp_Yingtantv",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "$$$./lib/yt.json$$$1"
     },
     {
       "key": "NanGua",
@@ -916,7 +927,8 @@
       "type": 3,
       "api": "csp_Duanju",
       "searchable": 0,
-      "changeable": 1
+      "changeable": 1,
+      "ext": "https://www.duanjutv.icu"
     },
     {
       "key": "MV_vod",
@@ -1059,6 +1071,50 @@
       "name": "Atsushi•18+",
       "type": 0,
       "url": "https://raw.sock.cf/atsushi444/iptv-epg/main/Adult.m3u"
+    }
+  ],
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
     }
   ],
   "rules": [
@@ -1427,7 +1483,6 @@
     "mgtv",
     "wasu"
   ],
-  "spider": "./jar/pg.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "disabled_wallpaper": "http://www.kf666888.cn/api/tvbox/img"
 }
