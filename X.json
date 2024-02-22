@@ -2,8 +2,8 @@
 "sites":[
 ##搜索系列
 {"key": "豆瓣","name":"㊗️┃🧧祝大家龙年大吉财源亨通🏮","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alanchaotang/if/raw/branch/main/js/豆瓣.js"},
-{"key": "小雅内网","name": "Ⓜ️┃小雅┃本地","type": 3,"api": "csp_XiaoYa","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://raw.sock.cf/celin1286/tb/main/jar/spring.jar","ext": "eyJhcGkiOiJodHRwOi8vMTkyLjE2OC4xLjI6NDU2NyIsInRva2VuIjoiIn0","categories": ["最新","国产剧","欧美剧","日韩剧","中国电影","欧美电影","日韩电影","电视剧","电影","纪录片","综艺","动漫"]},
-{"key": "上海影视","name": "Ⓜ️┃上海┃影视","type": 3,"api": "csp_XiaoYa","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://raw.sock.cf/celin1286/tb/main/jar/spring.jar","ext":"eyJhcGkiOiJodHRwOi8vMTM5LjIyNy41Mi4xMzU6NDU2NyIsInRva2VuIjoiIn0=","categories": ["每日更新","电影","电视剧","综艺","动漫","纪录片","🈴我的阿里分享"]},
+{"key": "小雅内网","name": "Ⓜ️┃小雅┃本地","type": 3,"api": "csp_XiaoYa","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://famou.deno.dev/celin1286/tb/main/jar/spring.jar","ext": "eyJhcGkiOiJodHRwOi8vMTkyLjE2OC4xLjI6NDU2NyIsInRva2VuIjoiIn0","categories": ["最新","国产剧","欧美剧","日韩剧","中国电影","欧美电影","日韩电影","电视剧","电影","纪录片","综艺","动漫"]},
+{"key": "上海影视","name": "Ⓜ️┃上海┃影视","type": 3,"api": "csp_XiaoYa","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://famou.deno.dev/celin1286/tb/main/jar/spring.jarcelin1286/tb/main/jar/spring.jar","ext":"eyJhcGkiOiJodHRwOi8vMTM5LjIyNy41Mi4xMzU6NDU2NyIsInRva2VuIjoiIn0=","categories": ["每日更新","电影","电视剧","综艺","动漫","纪录片","🈴我的阿里分享"]},
 {"key":"csp_qiumi","name":"Ⓜ️┃JRS┃球迷","type": 3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/jrk.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
 {"key": "push_agent","name": "Ⓜ️┃阿里┃推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30,"jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/pg.jar", "ext":"https://raw.sock.cf/celin1286/tb/main/lib/tokenm.json"},
 {"key":"南瓜","name":"🎃┃南瓜┃影视","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
@@ -388,7 +388,7 @@
 {"name":"Meroser•综合","type":0,"url":"https://famou.deno.dev/Meroser/IPTV/main/IPTV-tvbox.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 
 {"name":"YanG•18+","type":0,"url":"https://agit.ai/juzhisan/YanG-1989m3u/raw/branch/main/Adult.m3u"},
-{"name":"Atsushi•18+","type":0,"url":"https://raw.sock.cf/atsushi444/iptv-epg/main/Adult.m3u"}
+{"name":"Atsushi•18+","type":0,"url":"https://famou.deno.dev/atsushi444/iptv-epg/main/Adult.m3u"}
 ],
 
 "parses": [
