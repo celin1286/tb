@@ -83,6 +83,7 @@
       "searchable": 1,
       "changeable": 1
     },
+    {"key": "影视车","name": "影视车","type": 3,"api": "csp_LvDou","playerType": 1,"ext": {"server": "https://4k.ysctv.cn/api.php/app/","mackey": "yingshiche123456|PHPBxdt7PppocRJ5"},"jar": "http://4k.weixine.link:5678/tvbox/lvdou.jar"},
     {
       "key": "csp_qiumi",
       "name": "JRS球迷",
