@@ -57,6 +57,33 @@
       ]
     },
     {
+      "key": "Buleitv",
+      "name": "布蕾影视",
+      "type": 3,
+      "api": "csp_Buleitv",
+      "jar": "./jar/zyb.jar",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "Yingtantv",
+      "name": "影探影视",
+      "type": 3,
+      "api": "csp_Yingtantv2",
+      "jar": "./jar/zyb.jar",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "Zhuiyitv",
+      "name": "追忆影视",
+      "type": 3,
+      "api": "csp_Zhuiyitv",
+      "jar": "./jar/zyb.jar",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
       "key": "csp_qiumi",
       "name": "JRS球迷",
       "type": 3,
