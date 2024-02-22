@@ -83,6 +83,7 @@
       "searchable": 1,
       "changeable": 1
     },
+    {"key":"影视车®APP","name":"♨️影视车®APP","type":3,"api":"csp_LvDou","playerType":1,"ext":{"server":"https://4k.ysctv.cn/api.php/app/","mackey":"yingshichetvQ4Zi|PHRBxdt7PppocRJ5"},"jar":"https://famou.deno.dev/celin1286/tb/main/jar/ysc.jar"},
     {
       "key": "csp_qiumi",
       "name": "JRS球迷",
