@@ -57,15 +57,6 @@
       ]
     },
     {
-      "key": "Buleitv",
-      "name": "布蕾影视",
-      "type": 3,
-      "api": "csp_Buleitv",
-      "jar": "https://famou.deno.dev/celin1286/tb/main/jar/zyb.jar",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "Yingtantv",
       "name": "影探影视",
       "type": 3,
