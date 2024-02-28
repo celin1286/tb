@@ -167,6 +167,18 @@
       "ext": "./lib/tokenm.json$$$./lib/thundershare.txt"
     },
     {
+      "key": "SambaShare",
+      "name": "Samba分享",
+      "type": 3,
+      "api": "csp_SambaShare",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 0,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$./lib/sambashare.txt"
+    },
+    {
       "key": "直播转点播",
       "name": "🐼️┃电视┃直播",
       "type": 3,
@@ -301,6 +313,17 @@
       "ext": "./lib/tokenm.json$$$null$$$1"
     },
     {
+      "key": "美剧迷",
+      "name": "美剧迷|网盘",
+      "type": 3,
+      "api": "csp_Meijumi",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"
+    },
+    {
       "key": "Libvio",
       "name": "LIBVIO|网盘",
       "type": 3,
@@ -404,7 +427,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json$$$https://dapanso.com$$$null"
+      "ext": "./lib/tokenm.json$$$https://dapanso.com$$$null$$$1"
     },
     {
       "key": "PikaSo",
@@ -426,7 +449,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$./lib/qianfan.txt"
+      "ext": "./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$./lib/qianfan.txt$$$1"
     },
     {
       "key": "YunSo",
@@ -437,7 +460,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json"
+      "ext": "./lib/tokenm.json$$$https://www.yunso.net$$$null$$$1"
     },
     {
       "key": "YunPanOne",
@@ -448,13 +471,36 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json"
+      "ext": "./lib/tokenm.json$$$1"
     },
     {
       "key": "Yingtantv",
-      "name": "影探|直连",
+      "name": "影探|App",
       "type": 3,
       "api": "csp_Yingtantv",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "$$$./lib/yt.json$$$1"
+    },
+    {
+      "key": "Yscapp",
+      "name": "影视车|App",
+      "type": 3,
+      "api": "csp_Yscapp",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "playerType": 1,
+      "ext": "1"
+    },
+    {
+      "key": "Zhuiyitv",
+      "name": "追忆|App",
+      "type": 3,
+      "api": "csp_Zhuiyitv",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -625,16 +671,6 @@
       ],
       "searchable": 1,
       "quickSearch": 1
-    },
-    {
-      "key": "drpy_js_美剧迷",
-      "name": "美剧迷[js]|磁",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/meijumi.js",
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 60
     },
     {
       "key": "drpy_js_愛盤搜",
