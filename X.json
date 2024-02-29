@@ -2,7 +2,7 @@
 "sites":[
 ##搜索系列
 //{"key": "豆瓣","name":"㊗️┃🧧祝大家龙年大吉财源亨通🏮","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alanchaotang/if/raw/branch/main/js/豆瓣.js"},
-{"key":"豆豆","name":"🌟┃豆瓣┃影视","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"豆豆","name":"📱┃豆瓣┃影视","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key": "小雅内网","name": "Ⓜ️┃小雅┃本地","type": 3,"api": "csp_XiaoYa","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://famou.deno.dev/celin1286/tb/main/jar/spring.jar","ext": "eyJhcGkiOiJodHRwOi8vMTkyLjE2OC4xLjI6NDU2NyIsInRva2VuIjoiIn0","categories": ["最新","国产剧","欧美剧","日韩剧","中国电影","欧美电影","日韩电影","电视剧","电影","纪录片","综艺","动漫"]},
 {"key": "上海影视","name": "Ⓜ️┃上海┃影视","type": 3,"api": "csp_XiaoYa","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://famou.deno.dev/celin1286/tb/main/jar/spring.jar","ext":"eyJhcGkiOiJodHRwOi8vMTM5LjIyNy41Mi4xMzU6NDU2NyIsInRva2VuIjoiIn0=","categories": ["每日更新","电影","电视剧","综艺","动漫","纪录片","🈴我的阿里分享"]},
 {"key": "Zhuiyitv","name": "Ⓜ️┃追忆┃影视","type": 3,"api": "csp_Zhuiyitv","jar": "https://famou.deno.dev/celin1286/tb/main/jar/zyb.jar","searchable": 1,"changeable": 1},
@@ -29,12 +29,25 @@
 //{"key": "巧技二","name": "🥇┃喵播┃巧技","type": 3,"api": "csp_qiao2","playerType": 2,"ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2","jar":"http://cdn.qiaoji8.com/fix24225.jar;md5;fe4c16637b991d41b2ff6b6e4df3c246"},
 {"key": "柠檬","name": "🍋┃柠檬┃巧技","type": 3,"api": "csp_Nmvod","playerType": 2,"ext": "https://api.cnmcom.com/webcloud/nmsvip.php?url=","jar":"http://cdn.qiaoji8.com/fix24225.jar;md5;fe4c16637b991d41b2ff6b6e4df3c246"},
 {"key": "巧技五","name": "🥈┃星星┃巧技","type": 3,"api": "csp_qiao2","searchable": 1,"quickSearch": 1,"playerType": 2,"filterable": 1,"ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5","jar":"http://cdn.qiaoji8.com/fix24225.jar;md5;fe4c16637b991d41b2ff6b6e4df3c246"},
-
+{
+      "key": "Yinyuetai",
+      "name": "🛰音悦台┃音乐┃MV",
+      "type": 3,
+      "api": "csp_Yinyuetai",
+      "searchable": 1,
+      "changeable": 0,"jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/0229.jar"},
+{
+      "key": "Fangniu4k",
+      "name": "🇨🇳放牛┃TV┃App",
+      "type": 3,
+      "api": "csp_Fangniu4k",
+      "searchable": 1,
+      "changeable": 0,"jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/0229.jar"},
 	
 	
 ##官源系列
 {"key":"dr_布雷蓝光","name":"💥┃布布┃官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/布雷蓝光.jsd"},
-{"key":"dr_百忙无果","name":"🍋┃果果TV┃官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/百忙无果.js"},
+{"key":"dr_百忙无果","name":"🥭┃果果TV┃官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/百忙无果.js"},
 {"key":"dr_360影视","name":"♑┃三三影视┃官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/360影视.js"},
 {"key":"drpy_js_奇珍异兽","name":"🐨┃艺艺┃官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/奇珍异兽.js"},
 {"key": "dr_腾云驾雾","name": "🐧┃腾腾┃官源","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/腾云驾雾.js"},
