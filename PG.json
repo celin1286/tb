@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/pg.jar",
+  "spider": "https://famou.deno.dev/celin1286/tb/main/jar/pg.jar",
   "sites": [
     {
       "key": "豆瓣",
@@ -9,7 +9,7 @@
       "searchable": 0,
       "changeable": 1,
       "indexs": 1,
-      "ext": "./lib/douban.json"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/douban.json"
     },
     {
       "key": "小雅内网",
@@ -85,7 +85,7 @@
       "api": "csp_Config",
       "searchable": 0,
       "changeable": 0,
-      "ext": "./lib/tokenm.json"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json"
     },
     {
       "key": "Local",
@@ -103,7 +103,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json$$$https://famou.deno.dev/celin1286/tb/main/lib/pikpakclass.json$$$https://famou.deno.dev/celin1286/tb/main/lib/pikpakclass.json.txt.gz"
     },
     {
       "key": "AliShare",
@@ -115,7 +115,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$./lib/alishare.txt$$$db$$$1"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json$$$https://famou.deno.dev/celin1286/tb/main/lib/alishare.txt$$$db$$$1"
     },
     {
       "key": "AliShareEBook",
@@ -127,7 +127,7 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$./lib/alishare.ebook.txt$$$db$$$1",
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json$$$https://famou.deno.dev/celin1286/tb/main/lib/alishare.ebook.txt$$$db$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -143,7 +143,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$./lib/quarkshare.txt"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json$$$https://famou.deno.dev/celin1286/tb/main/lib/quarkshare.txt"
     },
     {
       "key": "ThunderShare",
@@ -155,7 +155,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$./lib/thundershare.txt"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json$$$https://famou.deno.dev/celin1286/tb/main/lib/thundershare.txt"
     },
     {
       "key": "SambaShare",
@@ -167,15 +167,15 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$./lib/sambashare.txt"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json$$$https://famou.deno.dev/celin1286/tb/main/lib/sambashare.txt"
     },
     {
       "key": "直播转点播",
       "name": "🐼️┃电视┃直播",
       "type": 3,
       "searchable": 0,
-      "api": "./lib/live2vod.js",
-      "ext": "./lib/feimaolive.json"
+      "api": "https://famou.deno.dev/celin1286/tb/main/lib/live2vod.js",
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/feimaolive.json"
     },
     {
       "key": "FirstAid",
@@ -194,8 +194,8 @@
       "key": "drpy_js_磁力熊",
       "name": "磁力熊[js]|索引",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/cilixiongp.js",
+      "api": "https://famou.deno.dev/celin1286/tb/main/lib/drpy2.min.js",
+      "ext": "https://famou.deno.dev/celin1286/tb/main/js/cilixiongp.js",
       "playerType": "1",
       "searchable": 0,
       "quickSearch": 0,
@@ -224,7 +224,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$https://famou.deno.dev/celin1286/tb/main/lib/wogg.json"
     },
     {
       "key": "影视车",
@@ -235,7 +235,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$https://famou.deno.dev/celin1286/tb/main/lib/wogg.json"
     },
     {
       "key": "Wobg",
@@ -246,7 +246,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$https://famou.deno.dev/celin1286/tb/main/lib/wogg.json"
     },
     {
       "key": "Pan99",
@@ -257,7 +257,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json$$$https://pan99.xyz$$$null$$$1"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json$$$https://pan99.xyz$$$null$$$1"
     },
     {
       "key": "Hdhive",
@@ -268,7 +268,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json$$$null$$$1"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json$$$null$$$1"
     },
     {
       "key": "Ppxzy",
@@ -279,7 +279,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json$$$https://ppxzy.net$$$null$$$1"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json$$$https://ppxzy.net$$$null$$$1"
     },
     {
       "key": "校长影视",
@@ -290,7 +290,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"
     },
     {
       "key": "团长资源",
@@ -301,7 +301,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json$$$null$$$1"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json$$$null$$$1"
     },
     {
       "key": "美剧迷",
@@ -312,7 +312,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"
     },
     {
       "key": "Libvio",
@@ -323,7 +323,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json$$$https://www.libvio.pro$$$null"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json$$$https://www.libvio.pro$$$null"
     },
     {
       "key": "PanSearch",
@@ -334,7 +334,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json"
     },
     {
       "key": "88Pan",
@@ -342,7 +342,7 @@
       "type": 3,
       "api": "csp_EightEight",
       "timeout": 30,
-      "ext": "./lib/tokenm.json$$$https://662688.xyz"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json$$$https://662688.xyz"
     },
     {
       "key": "盘搜",
@@ -350,7 +350,7 @@
       "type": 3,
       "api": "csp_PanSou",
       "timeout": 30,
-      "ext": "./lib/tokenm.json"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json"
     },
     {
       "key": "易搜",
@@ -358,7 +358,7 @@
       "type": 3,
       "api": "csp_YiSo",
       "timeout": 30,
-      "ext": "./lib/tokenm.json$$$./lib/yiso.txt"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json$$$https://famou.deno.dev/celin1286/tb/main/lib/yiso.txt"
     },
     {
       "key": "混合盘",
@@ -366,7 +366,7 @@
       "type": 3,
       "api": "csp_HunHePan",
       "timeout": 30,
-      "ext": "./lib/tokenm.json"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json"
     },
     {
       "key": "秒搜",
@@ -374,7 +374,7 @@
       "type": 3,
       "api": "csp_MiaoSou",
       "timeout": 30,
-      "ext": "./lib/tokenm.json"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json"
     },
     {
       "key": "Funletu",
@@ -385,7 +385,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json"
     },
     {
       "key": "QuarkPanso",
@@ -396,7 +396,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json"
     },
     {
       "key": "Panta",
@@ -407,7 +407,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1"
     },
     {
       "key": "DaPanSo",
@@ -418,7 +418,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json$$$https://dapanso.com$$$null$$$1"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json$$$https://dapanso.com$$$null$$$1"
     },
     {
       "key": "PikaSo",
@@ -429,7 +429,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json$$$https://www.pikaso.top/$$$null"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json$$$https://www.pikaso.top/$$$null"
     },
     {
       "key": "Qianfan",
@@ -440,7 +440,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$./lib/qianfan.txt$$$1"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$https://famou.deno.dev/celin1286/tb/main/lib/qianfan.txt$$$1"
     },
     {
       "key": "YunSo",
@@ -451,7 +451,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json$$$https://www.yunso.net$$$null$$$1"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json$$$https://www.yunso.net$$$null$$$1"
     },
     {
       "key": "YunPanOne",
@@ -462,7 +462,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json$$$1"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json$$$1"
     },
     {
       "key": "Yingtantv",
@@ -473,7 +473,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "$$$./lib/yt.json$$$1"
+      "ext": "$$$https://famou.deno.dev/celin1286/tb/main/lib/yt.json$$$1"
     },
     {
       "key": "Yscapp",
@@ -496,7 +496,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "$$$./lib/yt.json$$$1"
+      "ext": "$$$https://famou.deno.dev/celin1286/tb/main/lib/yt.json$$$1"
     },
     {
       "key": "NanGua",
@@ -516,7 +516,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "timeout": 30,
-      "ext": "./lib/tokenm.json"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json"
     },
     {
       "key": "Gitcafe",
@@ -527,7 +527,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "timeout": 30,
-      "ext": "./lib/tokenm.json"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json"
     },
     {
       "key": "新6V",
@@ -537,7 +537,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
     },
     {
       "key": "河马",
@@ -562,7 +562,7 @@
       "api": "csp_Jianpian",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./lib/jianpian.json$$$1",
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/jianpian.json$$$1",
       "timeout": 60
     },
     {
@@ -667,8 +667,8 @@
       "key": "drpy_js_愛盤搜",
       "name": "爱盘搜[js]|夸",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/aipanso.js",
+      "api": "https://famou.deno.dev/celin1286/tb/main/lib/drpy2.min.js",
+      "ext": "https://famou.deno.dev/celin1286/tb/main/js/aipanso.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
@@ -677,8 +677,8 @@
       "key": "drpy_js_人人影视",
       "name": "人人影视[js]|搜",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/yyets.js",
+      "api": "https://famou.deno.dev/celin1286/tb/main/lib/drpy2.min.js",
+      "ext": "https://famou.deno.dev/celin1286/tb/main/js/yyets.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
@@ -687,8 +687,8 @@
       "key": "drpy_js_MP4US",
       "name": "MP4电影[js]|磁",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/mp4us.js",
+      "api": "https://famou.deno.dev/celin1286/tb/main/lib/drpy2.min.js",
+      "ext": "https://famou.deno.dev/celin1286/tb/main/js/mp4us.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 60
@@ -702,7 +702,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$./lib/4khdr.txt$$$1"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json$$$https://famou.deno.dev/celin1286/tb/main/lib/4khdr.txt$$$1"
     },
     {
       "key": "UP云搜",
@@ -710,7 +710,7 @@
       "type": 3,
       "api": "csp_UpYun",
       "timeout": 30,
-      "ext": "./lib/tokenm.json"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json"
     },
     {
       "key": "JustLive",
@@ -724,8 +724,8 @@
       "key": "drpy_js_酷吧",
       "name": "酷吧[js]|磁",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/kuba.js",
+      "api": "https://famou.deno.dev/celin1286/tb/main/lib/drpy2.min.js",
+      "ext": "https://famou.deno.dev/celin1286/tb/main/js/kuba.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 60
@@ -762,7 +762,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./js/alistjar.json"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/js/alistjar.json"
     },
     {
       "key": "快看",
@@ -952,7 +952,7 @@
       "key": "愛看",
       "name": "愛看",
       "type": 3,
-      "api": "./js/ikanbot_open.js",
+      "api": "https://famou.deno.dev/celin1286/tb/main/js/ikanbot_open.js",
       "searchable": 1,
       "changeable": 0
     },
@@ -960,11 +960,11 @@
       "key": "drpy_js_Alist",
       "name": "网盘 | Alist[js]",
       "type": 3,
-      "api": "./lib/alist.min.js",
+      "api": "https://famou.deno.dev/celin1286/tb/main/lib/alist.min.js",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./js/alist.json"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/js/alist.json"
     },
     {
       "key": "短剧",
@@ -999,7 +999,7 @@
       "api": "csp_Push",
       "changeable": 0,
       "timeout": 30,
-      "ext": "./lib/tokenm.json"
+      "ext": "https://famou.deno.dev/celin1286/tb/main/lib/tokenm.json"
     },
     {
       "key": "應用商店",
