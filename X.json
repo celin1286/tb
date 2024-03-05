@@ -31,7 +31,7 @@
 //{"key": "巧技二","name": "🥇┃喵播┃巧技","type": 3,"api": "csp_qiao2","playerType": 2,"ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2","jar":"https://famou.deno.dev/celin1286/tb/main/jar/fix24225.jar"},
 {"key": "柠檬","name": "🍋┃柠檬┃巧技","type": 3,"api": "csp_Nmvod","playerType": 2,"ext": "https://api.cnmcom.com/webcloud/nmsvip.php?url=","jar":"https://famou.deno.dev/celin1286/tb/main/jar/fix24225.jar"},
 {"key": "巧技五","name": "🥈┃星星┃巧技","type": 3,"api": "csp_qiao2","searchable": 1,"quickSearch": 1,"playerType": 2,"filterable": 1,"ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5","jar":"https://famou.deno.dev/celin1286/tb/main/jar/fix24225.jar"},
-{"key": "AList","name": "🧸┃Alist小雅","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"changeable": 1,"ext": {"vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png","drives": [{"name": "小雅","server": "http://xiaoya.xlog.cc/","startPage": "/","showAll": false,"search": true,"headers": {"Authorization": ""}}]}},
+{"key": "AList","name": "🧸┃Alist小雅","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"changeable": 1,"ext": {"vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png","drives": [{"name": "小雅","server": "http://113.120.124.231:5678/","startPage": "/","showAll": false,"search": true,"headers": {"Authorization": ""}}]}},
 	
 ##官源系列
 {"key":"dr_布雷蓝光","name":"💥┃布布┃官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/布雷蓝光.jsd"},
