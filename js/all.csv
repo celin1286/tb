@@ -1,40 +1,63 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-47.243.183.127,2096,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",453,20.93
-8.218.52.115,2096,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",178,19.73
-8.218.204.128,2096,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",284,16.4
-47.243.183.127,8443,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",278,16.17
-47.242.174.27,2087,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",357,15.68
-47.242.17.250,2053,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",357,15.54
-8.217.250.5,2096,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",199,15.46
-8.218.188.129,2053,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",249,14.9
-8.218.188.129,2083,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",226,14.68
-47.243.183.127,443,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",173,13.57
-47.242.174.27,8443,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",400,13.47
-47.243.183.127,2083,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",394,12.06
-8.218.204.128,2087,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",448,11.17
-8.218.204.128,2083,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",440,10.03
-18.181.252.44,9002,TRUE,JP,JP,Asia Pacific,Tokyo,16509,AMAZON-02,263,24.6
-47.245.30.144,2087,TRUE,JP,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",265,17.11
-54.95.25.207,10018,TRUE,JP,JP,Asia Pacific,Tokyo,16509,AMAZON-02,254,12.23
-47.74.27.211,2096,TRUE,US,US,North America,Los Angeles,45102,"Alibaba US Technology Co., Ltd.",567,10.95
-140.238.28.86,443,TRUE,KR,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,304,16.61
-64.110.72.246,20010,TRUE,KR,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,309,15.35
-129.154.222.57,20010,TRUE,KR,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,332,13.97
-138.2.80.183,8443,TRUE,SG,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,444,17.42
-18.140.111.210,443,TRUE,SG,SG,Asia Pacific,Singapore,16509,AMAZON-02,270,16.9
-158.178.242.5,2053,TRUE,SG,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,445,15.02
-18.178.89.131,443,TRUE,SG,SG,Asia Pacific,Singapore,16509,AMAZON-02,399,14.25
-158.178.242.56,2096,TRUE,SG,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,570,14.05
-168.138.175.42,2000,TRUE,SG,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,332,12.61
-168.138.161.0,2083,TRUE,SG,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,489,12.53
-158.178.246.169,2087,TRUE,SG,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,570,12.31
-213.35.98.25,443,TRUE,SG,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,279,12.13
-168.138.185.28,2087,TRUE,SG,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,462,11.66
-13.124.120.105,443,TRUE,SG,SG,Asia Pacific,Singapore,16509,AMAZON-02,452,11.49
-138.2.80.183,2083,TRUE,SG,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,517,10.32
-203.66.14.48,34237,TRUE,TW,TW,Asia Pacific,Taipei,3462,Data Communication Business Group,395,27.02
-36.226.138.236,8443,TRUE,TW,TW,Asia Pacific,Taipei,3462,Data Communication Business Group,417,12.35
-43.207.156.148,2086,TRUE,TW,TW,Asia Pacific,Taipei,16509,AMAZON-02,445,11.88
-52.197.64.73,1,TRUE,SG,SG,Asia Pacific,Singapore,16509,AMAZON-02,392,17.56
-8.209.248.161,2096,TRUE,SG,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",441,11.52
+45.78.16.67,443,TRUE,HK,HK,Asia Pacific,Hong Kong,9312,xTom,312,25.25
+157.119.103.78,443,TRUE,HK,HK,Asia Pacific,Hong Kong,9312,xTom,295,20.73
+45.78.23.112,443,TRUE,HK,HK,Asia Pacific,Hong Kong,9312,xTom,302,16.09
+45.78.33.36,443,TRUE,HK,HK,Asia Pacific,Hong Kong,9312,xTom,286,14.39
+45.78.30.50,8080,TRUE,HK,HK,Asia Pacific,Hong Kong,9312,xTom,295,13.85
+45.78.30.50,8443,TRUE,HK,HK,Asia Pacific,Hong Kong,9312,xTom,280,10.95
+8.218.136.25,2083,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",423,22.01
+47.245.4.219,2096,TRUE,US,US,North America,Los Angeles,45102,"Alibaba US Technology Co., Ltd.",555,17.11
+8.217.167.88,8443,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",259,16.95
+8.210.65.1,2053,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",361,16.73
+8.210.119.11,443,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",220,15.79
+8.218.201.73,2087,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",373,15.68
+8.210.119.11,2096,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",234,15.24
+47.243.173.187,2053,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",413,15.06
+47.242.202.230,2087,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",429,14.92
+8.217.250.5,8443,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",225,14.67
+8.217.250.5,2087,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",357,14.43
+47.242.202.230,2083,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",397,14.38
+47.245.10.156,2087,TRUE,SG,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",471,14.38
+8.217.167.88,2096,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",205,13.79
+8.217.251.62,2083,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",184,13.24
+47.74.26.196,2096,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",405,13.15
+8.218.146.204,2096,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",427,13.05
+8.218.127.249,2087,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",210,13
+8.209.214.222,2083,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",435,12.53
+8.209.255.195,2096,TRUE,HK,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",401,11.38
+212.50.252.56,443,TRUE,JP,JP,Asia Pacific,Osaka,25820,IT7NET,372,14.44
+206.190.238.147,443,TRUE,JP,JP,Asia Pacific,Osaka,25820,IT7NET,406,12.6
+128.22.132.227,443,TRUE,JP,JP,Asia Pacific,Osaka,17511,OPTAGE Inc.,522,11.48
+23.106.129.156,443,TRUE,SG,SG,Asia Pacific,Singapore,25820,IT7NET,830,10.4
+47.245.56.207,2083,TRUE,SG,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",803,10.25
+54.95.25.207,10018,TRUE,JP,JP,Asia Pacific,Tokyo,16509,AMAZON-02,341,23.22
+47.74.54.145,2083,TRUE,JP,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",368,23.14
+18.181.252.44,9002,TRUE,JP,JP,Asia Pacific,Tokyo,16509,AMAZON-02,295,18.4
+47.74.54.145,2087,TRUE,JP,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",341,15.66
+47.245.4.219,2053,TRUE,SG,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",488,13.6
+47.245.54.98,2053,TRUE,JP,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",287,12.73
+47.74.54.145,2096,TRUE,JP,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",301,10.49
+18.183.158.211,443,TRUE,JP,JP,Asia Pacific,Tokyo,16509,AMAZON-02,197,10.38
+193.122.111.6,20010,TRUE,SG,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,507,20.7
+140.238.13.96,443,TRUE,KR,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,370,19.94
+152.70.248.175,20010,TRUE,SG,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,582,18.42
+130.162.136.205,20010,TRUE,SG,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,601,17.69
+132.226.234.240,20010,TRUE,SG,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,580,17.07
+130.162.137.190,20010,TRUE,KR,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,373,12.23
+64.110.72.246,20010,TRUE,SG,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,567,11.74
+47.128.164.52,9999,TRUE,SG,SG,Asia Pacific,Singapore,16509,AMAZON-02,336,16.76
+158.178.242.5,2096,TRUE,SG,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,655,13.38
+168.138.175.42,2008,TRUE,SG,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,584,12.45
+168.138.175.42,2006,TRUE,SG,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,437,12.08
+158.178.246.169,2096,TRUE,SG,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,708,11.1
+129.150.49.154,32799,TRUE,SG,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,395,10.11
+52.197.35.156,9002,TRUE,JP,JP,Asia Pacific,Tokyo,16509,AMAZON-02,206,10.11
+35.201.193.97,443,TRUE,TW,TW,Asia Pacific,Taipei,396982,GOOGLE-CLOUD-PLATFORM,690,26.56
+118.163.101.44,44332,TRUE,TW,TW,Asia Pacific,Taipei,3462,Data Communication Business Group,349,14.22
+43.207.156.148,2086,TRUE,TW,TW,Asia Pacific,Taipei,16509,AMAZON-02,348,14.18
+13.231.202.30,2086,TRUE,TW,TW,Asia Pacific,Taipei,16509,AMAZON-02,355,13.16
+203.66.14.48,34237,TRUE,TW,TW,Asia Pacific,Taipei,3462,Data Communication Business Group,341,10.77
+43.153.16.136,4333,TRUE,US,US,North America,San Jose,132203,"Tencent Building, Kejizhongyi Avenue",711,14.35
+37.123.193.49,18008,TRUE,US,US,North America,San Jose,41378,Kirino LLC,968,12.85
+129.154.195.74,15000,TRUE,US,US,North America,San Jose,31898,ORACLE-BMC-31898,625,10.45
 ,,,,,,,,,,
